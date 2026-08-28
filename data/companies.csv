@@ -1,531 +1,531 @@
 no,company,location,sector,part,career_url,ats
-1,adjoe,Hamburg,AdTech / Mobile,official,,
-2,AppLike Group,Hamburg,Mobile / Venture,official,,
-3,ABOUT YOU,Hamburg,E-commerce,official,,
-4,OTTO Group,Hamburg,E-commerce / Retail,official,,
-5,New Work SE (XING),Hamburg,HR Tech,official,,
-6,Statista,Hamburg,Data / SaaS,official,,
-7,Jimdo,Hamburg,SaaS,official,,
-8,MOIA,Hamburg,Mobility,official,,
-9,FREE NOW,Hamburg,Mobility,official,,
-10,Kuehne+Nagel,Hamburg,Logistics Tech,official,,
-11,Hapag-Lloyd,Hamburg,Shipping Tech,official,,
-12,Beiersdorf,Hamburg,Consumer / Digital,official,,
-13,Tchibo,Hamburg,Retail / Digital,official,,
-14,Hermes Germany,Hamburg,Logistics Tech,official,,
-15,Nexperia,Hamburg,Semiconductors,official,,
-16,Airbus,Hamburg,Aerospace Software,official,,
-17,Lufthansa Technik,Hamburg,Aviation Tech,official,,
-18,Nordex,Hamburg,Energy Tech,official,,
-19,Encavis,Hamburg,Energy / Digital,official,,
-20,Körber,Hamburg,Industrial Tech,official,,
-21,Collective Minds Radiology,Hamburg,HealthTech,official,,
-22,Goodgame Studios,Hamburg,Gaming,official,,
-23,InnoGames,Hamburg,Gaming,official,,
-24,Bigpoint,Hamburg,Gaming,official,,
-25,DeepL,Cologne / Berlin,AI / Language,official,,
-26,RTL Deutschland,Cologne,Media Tech,official,,
-27,REWE digital,Cologne,Retail Tech,official,,
-28,Trusted Shops,Cologne,E-commerce SaaS,official,,
-29,QuantCo,Cologne / Berlin / Munich,AI / Analytics,official,,
-30,LeanIX,Bonn,Enterprise SaaS,official,,
-31,Deutsche Telekom,Bonn,Telecom / Cloud,official,,
-32,DHL Group,Bonn,Logistics Tech,official,,
-33,Deutsche Welle,Bonn / Berlin,Media Tech,official,,
-34,Zalando,Berlin,E-commerce Tech,official,,
-35,Delivery Hero,Berlin,Delivery Tech,official,,
-36,HelloFresh,Berlin,FoodTech,official,,
-37,N26,Berlin,FinTech,official,,
-38,Trade Republic,Berlin,FinTech,official,,
-39,GetYourGuide,Berlin,TravelTech,official,,
-40,Contentful,Berlin,SaaS / CMS,official,,
-41,Babbel,Berlin,EdTech,official,,
-42,SumUp,Berlin,FinTech,official,,
-43,Solaris,Berlin,FinTech,official,,
-44,Mambu,Berlin,FinTech SaaS,official,,
-45,Taxfix,Berlin,FinTech,official,,
-46,Raisin,Berlin,FinTech,official,,
-47,Wefox,Berlin,InsurTech,official,,
-48,Clark,Berlin / Frankfurt,InsurTech,official,,
-49,CoachHub,Berlin,HR Tech,official,,
-50,Personio,Munich / Berlin,HR Tech,official,,
-51,sennder,Berlin,Logistics Tech,official,,
-52,Forto,Berlin,Logistics Tech,official,,
-53,Flix,Munich / Berlin,Mobility Tech,official,,
-54,Omio,Berlin,TravelTech,official,,
-55,SoundCloud,Berlin,Music Tech,official,,
-56,Ableton,Berlin,Music Software,official,,
-57,Native Instruments,Berlin,Music Software,official,,
-58,Wooga,Berlin,Gaming,official,,
-59,Kolibri Games,Berlin,Gaming,official,,
-60,King Berlin,Berlin,Gaming,official,,
-61,Ubisoft Berlin,Berlin,Gaming,official,,
-62,Helsing,Berlin / Munich,Defence AI,official,,
-63,Enpal,Berlin,ClimateTech,official,,
-64,1KOMMA5°,Hamburg / Berlin,ClimateTech,official,,
-65,Zolar,Berlin,ClimateTech,official,,
-66,Thermondo,Berlin,ClimateTech,official,,
-67,TIER Mobility,Berlin,Mobility,official,,
-68,Vay,Berlin / Hamburg,Mobility,official,,
-69,Miles Mobility,Berlin,Mobility,official,,
-70,AUTO1 Group,Berlin,Automotive Tech,official,,
-71,HeyJobs,Berlin,HR Tech,official,,
-72,StepStone,Düsseldorf / Berlin,HR Tech,official,,
-73,ResearchGate,Berlin,Research SaaS,official,,
-74,Komoot,Potsdam / Remote,Outdoor Tech,official,,
-75,Ecosia,Berlin,Search / Climate,official,,
-76,Mozilla Germany,Berlin,Internet Software,official,,
-77,GitLab Germany,Remote Germany,DevTools,official,,
-78,GitHub Germany,Remote Germany,DevTools,official,,
-79,Datadog Germany,Berlin / Munich,Cloud Monitoring,official,,
-80,Snowflake Germany,Berlin / Munich,Cloud Data,official,,
-81,MongoDB Germany,Berlin / Munich,Database,official,,
-82,Elastic Germany,Berlin / Remote,Search / Cloud,official,,
-83,Confluent Germany,Remote / Munich,Data Streaming,official,,
-84,HashiCorp Germany,Remote Germany,Cloud Infrastructure,official,,
-85,Red Hat Germany,Munich / Remote,Enterprise Software,official,,
-86,Canonical Germany,Remote Germany,Open Source,official,,
-87,Grafana Labs Germany,Remote Germany,Observability,official,,
-88,Cloudflare Germany,Munich / Remote,Cloud / Security,official,,
-89,Fastly Germany,Remote Germany,Edge Cloud,official,,
-90,Amazon Germany,Berlin / Munich / Dresden,Cloud / E-commerce,official,,
-91,AWS Germany,Berlin / Munich / Frankfurt,Cloud,official,,
-92,Google Germany,Munich / Berlin / Hamburg,Big Tech,official,,
-93,Microsoft Germany,Munich / Berlin / Hamburg,Big Tech / Cloud,official,,
-94,Apple Germany,Munich / Berlin,Consumer Tech,official,,
-95,Meta Germany,Berlin / Hamburg,Big Tech,official,,
-96,IBM Germany,Multiple cities,Enterprise Tech,official,,
-97,Oracle Germany,Multiple cities,Enterprise Software,official,,
-98,SAP,Walldorf / Berlin / Munich,Enterprise Software,official,,
-99,Salesforce Germany,Munich / Berlin / Frankfurt,Enterprise SaaS,official,,
-100,ServiceNow Germany,Munich / Frankfurt,Enterprise SaaS,official,,
-101,Workday Germany,Munich,Enterprise SaaS,official,,
-102,Atlassian Germany,Remote / Berlin,DevTools,official,,
-103,JetBrains Germany,Munich / Berlin,DevTools,official,,
-104,Celonis,Munich,Process Mining,official,,
-105,UiPath Germany,Munich,Automation,official,,
-106,Palantir Germany,Munich,Data / AI,official,,
-107,OpenAI Germany,Munich,AI,official,,
-108,NVIDIA Germany,Munich / Berlin,AI / Semiconductors,official,,
-109,Intel Germany,Munich / Karlsruhe,Semiconductors,official,,
-110,AMD Germany,Munich,Semiconductors,official,,
-111,Qualcomm Germany,Munich / Berlin,Semiconductors,official,,
-112,Arm Germany,Munich,Semiconductors,official,,
-113,Infineon,Munich / Dresden,Semiconductors,official,,
-114,Bosch,Stuttgart / Multiple,Industrial / IoT,official,,
-115,Bosch Digital,Stuttgart / Berlin,Enterprise Digital,official,,
-116,Siemens,Munich / Erlangen / Berlin,Industrial Tech,official,,
-117,Siemens Energy,Munich / Berlin / Erlangen,Energy Tech,official,,
-118,Siemens Healthineers,Erlangen / Munich,HealthTech,official,,
-119,BMW Group,Munich,Automotive Software,official,,
-120,Mercedes-Benz,Stuttgart,Automotive Software,official,,
-121,Mercedes-Benz Tech Innovation,Stuttgart / Berlin,Automotive Software,official,,
-122,Porsche,Stuttgart,Automotive Software,official,,
-123,Porsche Digital,Stuttgart / Berlin,Automotive Digital,official,,
-124,Volkswagen Group,Wolfsburg / Berlin,Automotive Software,official,,
-125,CARIAD,Wolfsburg / Berlin / Munich,Automotive Software,official,,
-126,Audi,Ingolstadt / Munich,Automotive Software,official,,
-127,MAN Truck & Bus,Munich,Automotive / Embedded,official,,
-128,TRATON,Munich,Commercial Vehicle Tech,official,,
-129,Continental,Hanover / Frankfurt,Automotive Tech,official,,
-130,ZF,Friedrichshafen,Automotive Tech,official,,
-131,Schaeffler,Herzogenaurach,Industrial / Automotive,official,,
-132,MAHLE,Stuttgart,Automotive Tech,official,,
-133,Brose,Coburg / Bamberg,Automotive Tech,official,,
-134,Webasto,Stockdorf,Automotive Tech,official,,
-135,Knorr-Bremse,Munich,Mobility Tech,official,,
-136,Daimler Truck,Leinfelden-Echterdingen,Commercial Vehicle Tech,official,,
-137,Tesla Germany,Berlin-Brandenburg,EV / Manufacturing Tech,official,,
-138,Rivian Germany,Munich,EV Software,official,,
-139,Wayve Germany,Leonberg,Autonomous Driving,official,,
-140,Aptiv Germany,Wuppertal / Munich,Automotive Software,official,,
-141,HERE Technologies,Berlin,Maps / Location,official,,
-142,TomTom Germany,Berlin,Maps / Location,official,,
-143,Garmin Germany,Garching,Navigation Tech,official,,
-144,TeamViewer,Göppingen,Remote Access SaaS,official,,
-145,AnyDesk,Stuttgart,Remote Access SaaS,official,,
-146,IONOS,Karlsruhe / Berlin,Cloud / Hosting,official,,
-147,United Internet,Montabaur / Karlsruhe,Internet Services,official,,
-148,1&1,Montabaur / Karlsruhe,Telecom / Internet,official,,
-149,IONITY,Munich,EV Charging,official,,
-150,ChargePoint Germany,Munich / Berlin,EV Charging,official,,
-151,E.ON,Essen / Berlin / Munich,Energy Tech,official,,
-152,RWE,Essen,Energy Tech,official,,
-153,EnBW,Karlsruhe / Stuttgart,Energy Tech,official,,
-154,Vattenfall Germany,Berlin / Hamburg,Energy Tech,official,,
-155,Uniper,Düsseldorf,Energy Tech,official,,
-156,50Hertz,Berlin,Grid Tech,official,,
-157,TenneT Germany,Bayreuth / Hanover,Grid Tech,official,,
-158,Amprion,Dortmund,Grid Tech,official,,
-159,LEAG,Cottbus,Energy / Digital,official,,
-160,BASF,Ludwigshafen,Chemical / Digital,official,,
-161,Bayer,Leverkusen / Berlin,Life Science / Digital,official,,
-162,Merck KGaA,Darmstadt,Science / Digital,official,,
-163,Boehringer Ingelheim,Ingelheim,Pharma / Digital,official,,
-164,BioNTech,Mainz,Biotech / Data,official,,
-165,Qiagen,Hilden,Biotech / Software,official,,
-166,Sartorius,Göttingen,Life Science Tech,official,,
-167,Fresenius,Bad Homburg,Healthcare / Digital,official,,
-168,Fresenius Medical Care,Bad Homburg,MedTech / Digital,official,,
-169,Carl Zeiss,Oberkochen / Jena,Optics / Software,official,,
-170,Dräger,Lübeck,MedTech / Embedded,official,,
-171,Ottobock,Duderstadt / Berlin,MedTech,official,,
-172,Brainlab,Munich,MedTech Software,official,,
-173,CompuGroup Medical,Koblenz,HealthTech,official,,
-174,Doctolib Germany,Berlin,HealthTech,official,,
-175,Ada Health,Berlin,Health AI,official,,
-176,Mimi Hearing Technologies,Berlin,HealthTech,official,,
-177,Kaia Health,Munich,Digital Health,official,,
-178,Temedica,Munich,Digital Health,official,,
-179,ProSiebenSat.1,Munich,Media Tech,official,,
-180,Sky Deutschland,Munich,Media Tech,official,,
-181,Axel Springer,Berlin / Hamburg,Media Tech,official,,
-182,ZEIT Verlagsgruppe,Hamburg,Media / Digital,official,,
-183,Der Spiegel,Hamburg,Media / Digital,official,,
-184,Gruner + Jahr / RTL,Hamburg,Media Tech,official,,
-185,Hubert Burda Media,Munich,Media Tech,official,,
-186,Scout24,Munich / Berlin,Marketplace Tech,official,,
-187,ImmobilienScout24,Berlin,PropTech,official,,
-188,ImmoScout24,Berlin,PropTech,official,,
-189,McMakler,Berlin,PropTech,official,,
-190,Homeday,Berlin,PropTech,official,,
-191,Spryker,Berlin / Hamburg,Commerce SaaS,official,,
-192,commercetools,Munich / Berlin,Commerce SaaS,official,,
-193,Shopify Germany,Remote Germany,Commerce SaaS,official,,
-194,eBay Germany,Berlin / Kleinmachnow,Marketplace Tech,official,,
-195,Kleinanzeigen,Berlin,Marketplace Tech,official,,
-196,Idealo,Berlin,Comparison Tech,official,,
-197,CHECK24,Munich / Hamburg / Cologne,Comparison Tech,official,,
-198,Verivox,Heidelberg / Berlin,Comparison Tech,official,,
-199,HomeToGo,Berlin,TravelTech,official,,
-200,Tourlane,Berlin,TravelTech,official,,
-201,trivago,Düsseldorf,TravelTech,official,,
-202,Booking.com Germany,Berlin / Munich,TravelTech,official,,
-203,Expedia Group Germany,Berlin / Munich,TravelTech,official,,
-204,Lufthansa Group,Frankfurt / Hamburg,Aviation Tech,official,,
-205,Lufthansa Innovation Hub,Berlin,TravelTech,official,,
-206,Deutsche Bahn,Berlin / Frankfurt,Mobility Tech,official,,
-207,DB Systel,Frankfurt / Berlin,Rail IT,official,,
-208,SIXT,Munich,Mobility Tech,official,,
-209,Miles & More,Frankfurt,Loyalty Tech,official,,
-210,Fraport,Frankfurt,Airport Tech,official,,
-211,Munich Airport,Munich,Airport Tech,official,,
-212,Deutsche Bank,Frankfurt / Berlin,Banking Tech,official,,
-213,Commerzbank,Frankfurt,Banking Tech,official,,
-214,ING Germany,Frankfurt / Nuremberg,Banking Tech,official,,
-215,KfW,Frankfurt,Banking / Digital,official,,
-216,DZ Bank,Frankfurt,Banking Tech,official,,
-217,DekaBank,Frankfurt,Banking Tech,official,,
-218,Deutsche Börse,Frankfurt,FinTech / Markets,official,,
-219,Allianz,Munich,Insurance Tech,official,,
-220,Allianz Technology,Munich,Insurance IT,official,,
-221,Munich Re,Munich,Insurance / Data,official,,
-222,Hannover Re,Hanover,Insurance Tech,official,,
-223,Talanx,Hanover,Insurance Tech,official,,
-224,ERGO Group,Düsseldorf,Insurance Tech,official,,
-225,HUK-COBURG,Coburg,Insurance Tech,official,,
-226,LBBW,Stuttgart,Banking Tech,official,,
-227,NORD/LB,Hanover,Banking Tech,official,,
-228,DATEV,Nuremberg,Business Software,official,,
-229,SUSE,Nuremberg / Remote,Open Source,official,,
-230,Semikron Danfoss,Nuremberg,Power Electronics,official,,
-231,adidas,Herzogenaurach,Retail / Digital,official,,
-232,PUMA,Herzogenaurach,Retail / Digital,official,,
-233,Zalando Lounge,Berlin,E-commerce Tech,official,,
-234,Douglas,Düsseldorf,Retail Tech,official,,
-235,C&A,Düsseldorf,Retail / Digital,official,,
-236,Metro AG,Düsseldorf,Wholesale Tech,official,,
-237,Henkel,Düsseldorf,Consumer / Digital,official,,
-238,Vorwerk,Wuppertal,Consumer / Digital,official,,
-239,Miele,Gütersloh,Consumer / IoT,official,,
-240,BSH Hausgeräte,Munich,Consumer / IoT,official,,
-241,Lidl Digital,Neckarsulm / Berlin,Retail Tech,official,,
-242,Schwarz IT,Neckarsulm,Retail IT,official,,
-243,Kaufland e-commerce,Cologne / Berlin,E-commerce Tech,official,,
-244,dmTECH,Karlsruhe,Retail Tech,official,,
-245,Rossmann IT,Burgwedel,Retail Tech,official,,
-246,Hornbach,Bornheim,Retail Tech,official,,
-247,MediaMarktSaturn,Ingolstadt / Munich,Retail Tech,official,,
-248,Ceconomy,Düsseldorf,Retail Tech,official,,
-249,Würth,Künzelsau,B2B / Digital,official,,
-250,Festo,Esslingen,Industrial Automation,official,,
-251,Kuehne+Nagel Germany,Hamburg,"Travel, Mobility & Logistics Tech",research_lead,,
-252,Airbus Germany,Hamburg / Munich,"Automotive, Industrial, Robotics & Semiconductors",research_lead,,
-253,GitLab,Germany / remote,Big Tech & Global Technology,research_lead,,
-254,Datadog,Berlin / remote,Big Tech & Global Technology,research_lead,,
-255,Snowflake,Berlin / Munich,Big Tech & Global Technology,research_lead,,
-256,MongoDB,Berlin / remote,Big Tech & Global Technology,research_lead,,
-257,Elastic,Germany / remote,Big Tech & Global Technology,research_lead,,
-258,Red Hat,multiple,Big Tech & Global Technology,research_lead,,
-259,Grafana Labs,Germany / remote,German SaaS & Enterprise Software,research_lead,,
-260,Cloudflare,Germany / remote,Big Tech & Global Technology,research_lead,,
-261,Amazon,Berlin / Munich / multiple,Big Tech & Global Technology,research_lead,,
-262,Google,Munich / Berlin / Hamburg,Big Tech & Global Technology,research_lead,,
-263,Microsoft,Munich / Berlin,Big Tech & Global Technology,research_lead,,
-264,Apple,Munich,Big Tech & Global Technology,research_lead,,
-265,Meta,Berlin / Hamburg / remote,Big Tech & Global Technology,research_lead,,
-266,IBM,multiple,Big Tech & Global Technology,research_lead,,
-267,Oracle,multiple,Big Tech & Global Technology,research_lead,,
-268,Salesforce,Munich / Berlin,Big Tech & Global Technology,research_lead,,
-269,ServiceNow,Frankfurt / Munich,Big Tech & Global Technology,research_lead,,
-270,Workday,Munich,Big Tech & Global Technology,research_lead,,
-271,Atlassian,Germany / remote,Big Tech & Global Technology,research_lead,,
-272,JetBrains,Munich,Big Tech & Global Technology,research_lead,,
-273,UiPath,Munich,Big Tech & Global Technology,research_lead,,
-274,Palantir,Munich,Big Tech & Global Technology,research_lead,,
-275,OpenAI,Munich,Big Tech & Global Technology,research_lead,,
-276,NVIDIA,Munich / Berlin,Big Tech & Global Technology,research_lead,,
-277,Intel,Munich,Big Tech & Global Technology,research_lead,,
-278,Qualcomm,Munich / Berlin,Big Tech & Global Technology,research_lead,,
-279,Vattenfall,Berlin / Hamburg,"Telecom, Public Infrastructure & Research",research_lead,,
-280,Deutsche Börse Group,Frankfurt,"FinTech, Banking & Insurance Tech",research_lead,,
-281,Cisco,multiple,Big Tech & Global Technology,research_lead,,
-282,Samsung Electronics,multiple,Big Tech & Global Technology,research_lead,,
-283,Huawei,Munich / Düsseldorf / Nuremberg,Big Tech & Global Technology,research_lead,,
-284,Adobe,Hamburg / Munich,Big Tech & Global Technology,research_lead,,
-285,Dell Technologies,multiple,Big Tech & Global Technology,research_lead,,
-286,Hewlett Packard Enterprise,multiple,Big Tech & Global Technology,research_lead,,
-287,Dropbox,Hamburg / remote,Big Tech & Global Technology,research_lead,,
-288,Twilio,Germany / remote,Big Tech & Global Technology,research_lead,,
-289,Stripe,Berlin / remote,Big Tech & Global Technology,research_lead,,
-290,Anthropic,Munich,Big Tech & Global Technology,research_lead,,
-291,Databricks,Munich / Berlin,Big Tech & Global Technology,research_lead,,
-292,Zoom,Germany / remote,Big Tech & Global Technology,research_lead,,
-293,VMware by Broadcom,Germany,Big Tech & Global Technology,research_lead,,
-294,Akamai,Munich / remote,Big Tech & Global Technology,research_lead,,
-295,Staffbase,Chemnitz / Berlin,German SaaS & Enterprise Software,research_lead,,
-296,Miro,Berlin,German SaaS & Enterprise Software,research_lead,,
-297,Mendix,Frankfurt / multiple,German SaaS & Enterprise Software,research_lead,,
-298,Signavio,Berlin,German SaaS & Enterprise Software,research_lead,,
-299,Contentstack,Germany / remote,German SaaS & Enterprise Software,research_lead,,
-300,Camunda,Berlin / remote,German SaaS & Enterprise Software,research_lead,,
-301,Hygraph,Berlin,German SaaS & Enterprise Software,research_lead,,
-302,Masterplan,Berlin,German SaaS & Enterprise Software,research_lead,,
-303,Pitch,Berlin,German SaaS & Enterprise Software,research_lead,,
-304,Zenjob,Berlin,German SaaS & Enterprise Software,research_lead,,
-305,Choco,Berlin,German SaaS & Enterprise Software,research_lead,,
-306,Honeypot,Berlin,German SaaS & Enterprise Software,research_lead,,
-307,Talon.One,Berlin,German SaaS & Enterprise Software,research_lead,,
-308,Parloa,Berlin,German SaaS & Enterprise Software,research_lead,,
-309,N8N,Berlin / remote,German SaaS & Enterprise Software,research_lead,,
-310,Aiven,Berlin / remote,German SaaS & Enterprise Software,research_lead,,
-311,Software AG,Darmstadt,German SaaS & Enterprise Software,research_lead,,
-312,USU Software,Möglingen / multiple,German SaaS & Enterprise Software,research_lead,,
-313,Canto,Berlin,German SaaS & Enterprise Software,research_lead,,
-314,Productsup,Berlin,German SaaS & Enterprise Software,research_lead,,
-315,Remerge,Berlin,German SaaS & Enterprise Software,research_lead,,
-316,Keboola,Berlin / remote,German SaaS & Enterprise Software,research_lead,,
-317,Deutsche Telekom IT,Bonn / multiple,German SaaS & Enterprise Software,research_lead,,
-318,T-Systems,multiple,German SaaS & Enterprise Software,research_lead,,
-319,msg systems,multiple,German SaaS & Enterprise Software,research_lead,,
-320,Materna,Dortmund / multiple,German SaaS & Enterprise Software,research_lead,,
-321,adesso,multiple,German SaaS & Enterprise Software,research_lead,,
-322,GFT Technologies,Stuttgart / multiple,German SaaS & Enterprise Software,research_lead,,
-323,Etsy,Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,,
-324,Wayfair,Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,,
-325,Westwing,Munich,"E-commerce, Marketplace & Consumer Tech",research_lead,,
-326,Home24,Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,,
-327,Breuninger,Stuttgart,"E-commerce, Marketplace & Consumer Tech",research_lead,,
-328,Flaconi,Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,,
-329,Mister Spex,Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,,
-330,Fashionette,Düsseldorf,"E-commerce, Marketplace & Consumer Tech",research_lead,,
-331,Chrono24,Karlsruhe / Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,,
-332,mobile.de,Berlin / Kleinmachnow,"E-commerce, Marketplace & Consumer Tech",research_lead,,
-333,Momox,Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,,
-334,rebuy,Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,,
-335,Grover,Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,,
-336,Back Market,Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,,
-337,rebell,Hamburg,"E-commerce, Marketplace & Consumer Tech",research_lead,,
-338,KoRo,Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,,
-339,Foodspring,Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,,
-340,Flink,Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,,
-341,Picnic,Düsseldorf / multiple,"E-commerce, Marketplace & Consumer Tech",research_lead,,
-342,Wolt Germany,Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,,
-343,Uber,Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,,
-344,Bolt,Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,,
-345,Getir Germany,Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,,
-346,Zooplus,Munich,"E-commerce, Marketplace & Consumer Tech",research_lead,,
-347,DocMorris,Berlin / Aachen,"E-commerce, Marketplace & Consumer Tech",research_lead,,
-348,Shop Apotheke / Redcare Pharmacy,Cologne / remote,"E-commerce, Marketplace & Consumer Tech",research_lead,,
-349,Thalia,Hagen / Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,,
-350,Spread Group,Leipzig,"E-commerce, Marketplace & Consumer Tech",research_lead,,
-351,Mymuesli,Passau / Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,,
-352,Scalable Capital,Munich / Berlin,"FinTech, Banking & Insurance Tech",research_lead,,
-353,Moss,Berlin,"FinTech, Banking & Insurance Tech",research_lead,,
-354,Penta,Berlin,"FinTech, Banking & Insurance Tech",research_lead,,
-355,Qonto Germany,Berlin,"FinTech, Banking & Insurance Tech",research_lead,,
-356,Mollie,Munich / Berlin,"FinTech, Banking & Insurance Tech",research_lead,,
-357,Klarna Germany,Berlin,"FinTech, Banking & Insurance Tech",research_lead,,
-358,Adyen Germany,Berlin / Munich,"FinTech, Banking & Insurance Tech",research_lead,,
-359,PayPal Germany,Berlin / Dreilinden,"FinTech, Banking & Insurance Tech",research_lead,,
-360,Stripe Germany,Berlin,"FinTech, Banking & Insurance Tech",research_lead,,
-361,Wise,Berlin,"FinTech, Banking & Insurance Tech",research_lead,,
-362,Revolut Germany,Berlin / remote,"FinTech, Banking & Insurance Tech",research_lead,,
-363,Moonfare,Berlin,"FinTech, Banking & Insurance Tech",research_lead,,
-364,Upvest,Berlin,"FinTech, Banking & Insurance Tech",research_lead,,
-365,Finleap,Berlin,"FinTech, Banking & Insurance Tech",research_lead,,
-366,Getsafe,Heidelberg / Berlin,"FinTech, Banking & Insurance Tech",research_lead,,
-367,Friday,Berlin,"FinTech, Banking & Insurance Tech",research_lead,,
-368,Element Insurance,Berlin,"FinTech, Banking & Insurance Tech",research_lead,,
-369,Hepster,Rostock / Berlin,"FinTech, Banking & Insurance Tech",research_lead,,
-370,ERGO Technology & Services,Düsseldorf,"FinTech, Banking & Insurance Tech",research_lead,,
-371,DKB,Berlin,"FinTech, Banking & Insurance Tech",research_lead,,
-372,N26 Bank,Berlin,"FinTech, Banking & Insurance Tech",research_lead,,
-373,Euronext Germany,Frankfurt,"FinTech, Banking & Insurance Tech",research_lead,,
-374,Baader Bank,Munich,"FinTech, Banking & Insurance Tech",research_lead,,
-375,DWS Group,Frankfurt,"FinTech, Banking & Insurance Tech",research_lead,,
-376,BlackRock Germany,Frankfurt / Munich,"FinTech, Banking & Insurance Tech",research_lead,,
-377,Goldman Sachs Germany,Frankfurt,"FinTech, Banking & Insurance Tech",research_lead,,
-378,JPMorgan Germany,Frankfurt,"FinTech, Banking & Insurance Tech",research_lead,,
-379,Morgan Stanley Germany,Frankfurt,"FinTech, Banking & Insurance Tech",research_lead,,
-380,Citi Germany,Frankfurt,"FinTech, Banking & Insurance Tech",research_lead,,
-381,Avaloq,Berlin,"FinTech, Banking & Insurance Tech",research_lead,,
-382,Worldline Germany,Frankfurt / Aachen,"FinTech, Banking & Insurance Tech",research_lead,,
-383,Nexi Germany,Eschborn,"FinTech, Banking & Insurance Tech",research_lead,,
-384,Sunday,Hamburg,"AdTech, Gaming, Media & Entertainment",research_lead,,
-385,justDice,Hamburg,"AdTech, Gaming, Media & Entertainment",research_lead,,
-386,Adjust,Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,,
-387,Smaato,Hamburg,"AdTech, Gaming, Media & Entertainment",research_lead,,
-388,Kayzen,Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,,
-389,YOC,Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,,
-390,PubMatic Germany,Hamburg / Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,,
-391,Criteo Germany,Munich,"AdTech, Gaming, Media & Entertainment",research_lead,,
-392,The Trade Desk Germany,Hamburg / Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,,
-393,Magnite Germany,Hamburg,"AdTech, Gaming, Media & Entertainment",research_lead,,
-394,Taboola Germany,Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,,
-395,Outbrain Germany,Munich,"AdTech, Gaming, Media & Entertainment",research_lead,,
-396,AppLovin Germany,Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,,
-397,Unity Technologies Germany,Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,,
-398,King,Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,,
-399,Riot Games Germany,Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,,
-400,Ubisoft Germany,Düsseldorf / Mainz / Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,,
-401,Crytek,Frankfurt,"AdTech, Gaming, Media & Entertainment",research_lead,,
-402,GameDuell,Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,,
-403,YAGER,Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,,
-404,Travian Games,Munich,"AdTech, Gaming, Media & Entertainment",research_lead,,
-405,HandyGames,Giebelstadt,"AdTech, Gaming, Media & Entertainment",research_lead,,
-406,Deep Silver,Munich,"AdTech, Gaming, Media & Entertainment",research_lead,,
-407,Keen Games,Frankfurt,"AdTech, Gaming, Media & Entertainment",research_lead,,
-408,Remote Control Productions,Munich,"AdTech, Gaming, Media & Entertainment",research_lead,,
-409,Spotify Germany,Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,,
-410,Deezer Germany,Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,,
-411,Universal Music Germany,Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,,
-412,Bertelsmann Tech,Gütersloh / Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,,
-413,RTL Technology,Cologne,"AdTech, Gaming, Media & Entertainment",research_lead,,
-414,ProSiebenSat.1 Tech,Munich,"AdTech, Gaming, Media & Entertainment",research_lead,,
-415,Axel Springer Tech,Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,,
-416,Ringier Axel Springer,Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,,
-417,ZEIT Online,Hamburg / Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,,
-418,DER SPIEGEL Tech,Hamburg,"AdTech, Gaming, Media & Entertainment",research_lead,,
-419,Hubert Burda Media Tech,Munich,"AdTech, Gaming, Media & Entertainment",research_lead,,
-420,Funke Digital,Berlin / Essen,"AdTech, Gaming, Media & Entertainment",research_lead,,
-421,Holidu,Munich,"Travel, Mobility & Logistics Tech",research_lead,,
-422,Skyscanner Germany,Berlin,"Travel, Mobility & Logistics Tech",research_lead,,
-423,Lufthansa Group Digital,Frankfurt / Berlin / Hamburg,"Travel, Mobility & Logistics Tech",research_lead,,
-424,Eurowings Digital,Cologne,"Travel, Mobility & Logistics Tech",research_lead,,
-425,TUI Tech,Hanover / Berlin,"Travel, Mobility & Logistics Tech",research_lead,,
-426,Voi Germany,Berlin,"Travel, Mobility & Logistics Tech",research_lead,,
-427,Finn,Munich,"Travel, Mobility & Logistics Tech",research_lead,,
-428,Wunder Mobility,Hamburg,"Travel, Mobility & Logistics Tech",research_lead,,
-429,Door2Door,Berlin,"Travel, Mobility & Logistics Tech",research_lead,,
-430,BVG Digital,Berlin,"Travel, Mobility & Logistics Tech",research_lead,,
-431,Deutsche Bahn Digital Ventures,Berlin / Frankfurt,"Travel, Mobility & Logistics Tech",research_lead,,
-432,DHL IT Services Germany,Bonn / multiple,"Travel, Mobility & Logistics Tech",research_lead,,
-433,FreightHub,Berlin,"Travel, Mobility & Logistics Tech",research_lead,,
-434,Seven Senders,Berlin,"Travel, Mobility & Logistics Tech",research_lead,,
-435,InstaFreight,Berlin,"Travel, Mobility & Logistics Tech",research_lead,,
-436,Hive,Berlin,"Travel, Mobility & Logistics Tech",research_lead,,
-437,Warehousing1,Berlin,"Travel, Mobility & Logistics Tech",research_lead,,
-438,Shipcloud,Hamburg,"Travel, Mobility & Logistics Tech",research_lead,,
-439,LetMeShip,Hamburg,"Travel, Mobility & Logistics Tech",research_lead,,
-440,Cargonexx,Hamburg,"Travel, Mobility & Logistics Tech",research_lead,,
-441,Flexport Germany,Hamburg,"Travel, Mobility & Logistics Tech",research_lead,,
-442,Maersk Germany,Hamburg,"Travel, Mobility & Logistics Tech",research_lead,,
-443,Hapag-Lloyd IT,Hamburg,"Travel, Mobility & Logistics Tech",research_lead,,
-444,Hellmann Worldwide Logistics,Osnabrück,"Travel, Mobility & Logistics Tech",research_lead,,
-445,Rhenus Logistics,Holzwickede,"Travel, Mobility & Logistics Tech",research_lead,,
-446,FIEGE Logistik,Greven,"Travel, Mobility & Logistics Tech",research_lead,,
-447,Dachser IT,Kempten,"Travel, Mobility & Logistics Tech",research_lead,,
-448,Lufthansa Systems,Frankfurt / Hamburg,"Travel, Mobility & Logistics Tech",research_lead,,
-449,NavVis,Munich,"Travel, Mobility & Logistics Tech",research_lead,,
-450,Aleph Alpha,Heidelberg,"AI, Data, Climate & DeepTech",research_lead,,
-451,Black Forest Labs,Freiburg,"AI, Data, Climate & DeepTech",research_lead,,
-452,Jina AI,Berlin,"AI, Data, Climate & DeepTech",research_lead,,
-453,deepset,Berlin,"AI, Data, Climate & DeepTech",research_lead,,
-454,Merantix,Berlin,"AI, Data, Climate & DeepTech",research_lead,,
-455,Aignostics,Berlin,"AI, Data, Climate & DeepTech",research_lead,,
-456,Cambrium,Berlin,"AI, Data, Climate & DeepTech",research_lead,,
-457,Taktile,Berlin,"AI, Data, Climate & DeepTech",research_lead,,
-458,Konux,Munich,"AI, Data, Climate & DeepTech",research_lead,,
-459,Celonis AI,Munich,"AI, Data, Climate & DeepTech",research_lead,,
-460,H2O.ai Germany,Berlin / remote,"AI, Data, Climate & DeepTech",research_lead,,
-461,Dataiku Germany,Frankfurt / Munich,"AI, Data, Climate & DeepTech",research_lead,,
-462,DataRobot Germany,Munich,"AI, Data, Climate & DeepTech",research_lead,,
-463,Weights & Biases Germany,Berlin / remote,"AI, Data, Climate & DeepTech",research_lead,,
-464,Hugging Face Germany,remote,"AI, Data, Climate & DeepTech",research_lead,,
-465,Paretos,Heidelberg,"AI, Data, Climate & DeepTech",research_lead,,
-466,Mostly AI Germany,Berlin,"AI, Data, Climate & DeepTech",research_lead,,
-467,Teraki,Berlin,"AI, Data, Climate & DeepTech",research_lead,,
-468,Brighter AI,Berlin,"AI, Data, Climate & DeepTech",research_lead,,
-469,Twenty Billion Neurons,Berlin,"AI, Data, Climate & DeepTech",research_lead,,
-470,Zalando Research,Berlin,"AI, Data, Climate & DeepTech",research_lead,,
-471,Bosch Center for AI,Renningen,"AI, Data, Climate & DeepTech",research_lead,,
-472,SAP AI,Walldorf / Berlin,"AI, Data, Climate & DeepTech",research_lead,,
-473,Siemens AI Lab,Munich,"AI, Data, Climate & DeepTech",research_lead,,
-474,E.ON Digital Technology,Essen / Berlin,"AI, Data, Climate & DeepTech",research_lead,,
-475,Tado,Munich,"AI, Data, Climate & DeepTech",research_lead,,
-476,Greenlyte Carbon Technologies,Essen,"AI, Data, Climate & DeepTech",research_lead,,
-477,Climeworks Germany,Cologne / remote,"AI, Data, Climate & DeepTech",research_lead,,
-478,Plan A,Berlin,"AI, Data, Climate & DeepTech",research_lead,,
-479,Sweep Germany,Berlin,"AI, Data, Climate & DeepTech",research_lead,,
-480,Klima.Metrix,Berlin,"AI, Data, Climate & DeepTech",research_lead,,
-481,EcoG,Munich,"AI, Data, Climate & DeepTech",research_lead,,
-482,Electrochaea,Munich,"AI, Data, Climate & DeepTech",research_lead,,
-483,Voltfang,Aachen,"AI, Data, Climate & DeepTech",research_lead,,
-484,Sonnen,Wildpoldsried / Berlin,"AI, Data, Climate & DeepTech",research_lead,,
-485,Next Kraftwerke,Cologne,"AI, Data, Climate & DeepTech",research_lead,,
-486,Vattenfall Digital,Berlin / Hamburg,"AI, Data, Climate & DeepTech",research_lead,,
-487,RWE Supply & Trading Tech,Essen,"AI, Data, Climate & DeepTech",research_lead,,
-488,Uniper IT,Düsseldorf,"AI, Data, Climate & DeepTech",research_lead,,
-489,EWE Digital,Oldenburg,"AI, Data, Climate & DeepTech",research_lead,,
-490,Octopus Energy Germany,Munich / Berlin,"AI, Data, Climate & DeepTech",research_lead,,
-491,CureVac,Tübingen,"HealthTech, MedTech & Life Sciences",research_lead,,
-492,Fresenius Digital Technology,Bad Homburg,"HealthTech, MedTech & Life Sciences",research_lead,,
-493,Carl Zeiss Meditec,Jena,"HealthTech, MedTech & Life Sciences",research_lead,,
-494,Clue,Berlin,"HealthTech, MedTech & Life Sciences",research_lead,,
-495,Maven Clinic Germany,Berlin / remote,"HealthTech, MedTech & Life Sciences",research_lead,,
-496,Docplanner Germany,Berlin,"HealthTech, MedTech & Life Sciences",research_lead,,
-497,Patient 21,Berlin,"HealthTech, MedTech & Life Sciences",research_lead,,
-498,Avi Medical,Munich,"HealthTech, MedTech & Life Sciences",research_lead,,
-499,TeleClinic,Munich,"HealthTech, MedTech & Life Sciences",research_lead,,
-500,Doctorly,Berlin,"HealthTech, MedTech & Life Sciences",research_lead,,
-501,Zava Germany,Hamburg,"HealthTech, MedTech & Life Sciences",research_lead,,
-502,Caspar Health,Berlin,"HealthTech, MedTech & Life Sciences",research_lead,,
-503,Kenbi,Berlin,"HealthTech, MedTech & Life Sciences",research_lead,,
-504,Medwing,Berlin,"HealthTech, MedTech & Life Sciences",research_lead,,
-505,AMBOSS,Berlin,"HealthTech, MedTech & Life Sciences",research_lead,,
-506,Nelly Solutions,Berlin,"HealthTech, MedTech & Life Sciences",research_lead,,
-507,Caresyntax,Berlin,"HealthTech, MedTech & Life Sciences",research_lead,,
-508,x-cardiac,Berlin,"HealthTech, MedTech & Life Sciences",research_lead,,
-509,Varian Germany,multiple,"HealthTech, MedTech & Life Sciences",research_lead,,
-510,Philips Germany,Hamburg / Böblingen,"HealthTech, MedTech & Life Sciences",research_lead,,
-511,GE HealthCare Germany,Munich / multiple,"HealthTech, MedTech & Life Sciences",research_lead,,
-512,Roche Germany,Mannheim / Penzberg,"HealthTech, MedTech & Life Sciences",research_lead,,
-513,Abbott Germany,Wiesbaden,"HealthTech, MedTech & Life Sciences",research_lead,,
-514,Johnson & Johnson MedTech,multiple,"HealthTech, MedTech & Life Sciences",research_lead,,
-515,Thermo Fisher Scientific Germany,multiple,"HealthTech, MedTech & Life Sciences",research_lead,,
-516,B. Braun,Melsungen,"HealthTech, MedTech & Life Sciences",research_lead,,
-517,Evotec,Hamburg,"HealthTech, MedTech & Life Sciences",research_lead,,
-518,Synlab,Munich,"HealthTech, MedTech & Life Sciences",research_lead,,
-519,Limbach Gruppe,Heidelberg,"HealthTech, MedTech & Life Sciences",research_lead,,
-520,ZF Friedrichshafen,Friedrichshafen,"Automotive, Industrial, Robotics & Semiconductors",research_lead,,
-521,Valeo Germany,multiple,"Automotive, Industrial, Robotics & Semiconductors",research_lead,,
-522,Forvia Hella,Lippstadt,"Automotive, Industrial, Robotics & Semiconductors",research_lead,,
-523,Magna Germany,multiple,"Automotive, Industrial, Robotics & Semiconductors",research_lead,,
-524,Tesla Gigafactory,Grünheide,"Automotive, Industrial, Robotics & Semiconductors",research_lead,,
-525,Lucid Motors Germany,Munich,"Automotive, Industrial, Robotics & Semiconductors",research_lead,,
-526,BMW Car IT,Munich / Ulm,"Automotive, Industrial, Robotics & Semiconductors",research_lead,,
-527,Volkswagen Infotainment,Bochum,"Automotive, Industrial, Robotics & Semiconductors",research_lead,,
-528,IAV,Berlin / Gifhorn,"Automotive, Industrial, Robotics & Semiconductors",research_lead,,
-529,EDAG,Fulda / multiple,"Automotive, Industrial, Robotics & Semiconductors",research_lead,,
-530,Bertrandt,Ehningen / multiple,"Automotive, Industrial, Robotics & Semiconductors",research_lead,,
+1,adjoe,Hamburg,AdTech / Mobile,official,https://www.hugedomains.com/domain_profile.cfm?d=adjoe.com/careers,generic
+2,AppLike Group,Hamburg,Mobile / Venture,official,https://applike.com/careers,generic
+3,ABOUT YOU,Hamburg,E-commerce,official,https://www.aboutyou.com/your-shop/careers,generic
+4,OTTO Group,Hamburg,E-commerce / Retail,official,https://www.otto.de/unternehmen/,needs_review
+5,New Work SE (XING),Hamburg,HR Tech,official,https://newwork.com/,needs_review
+6,Statista,Hamburg,Data / SaaS,official,https://jobs.ashbyhq.com/statista,generic
+7,Jimdo,Hamburg,SaaS,official,https://www.jimdo.com/,needs_review
+8,MOIA,Hamburg,Mobility,official,https://moia.com/careers,generic
+9,FREE NOW,Hamburg,Mobility,official,,needs_review
+10,Kuehne+Nagel,Hamburg,Logistics Tech,official,https://www.kuehne-nagel.com/,needs_review
+11,Hapag-Lloyd,Hamburg,Shipping Tech,official,https://www.hapag-lloyd.com/de/home.html,needs_review
+12,Beiersdorf,Hamburg,Consumer / Digital,official,https://www.beiersdorf.com/career/overview,generic
+13,Tchibo,Hamburg,Retail / Digital,official,https://www.tchibo-karriere.de/en/?utm_source=tchibo.com,generic
+14,Hermes Germany,Hamburg,Logistics Tech,official,,needs_review
+15,Nexperia,Hamburg,Semiconductors,official,https://www.nexperia.com/careers,generic
+16,Airbus,Hamburg,Aerospace Software,official,https://www.airbus.com/en/careers,generic
+17,Lufthansa Technik,Hamburg,Aviation Tech,official,https://www.lufthansa-technik.com:443/en/career,generic
+18,Nordex,Hamburg,Energy Tech,official,https://nordex.com/careers/,generic
+19,Encavis,Hamburg,Energy / Digital,official,https://www.encavis.com/de/karriere,generic
+20,Körber,Hamburg,Industrial Tech,official,,needs_review
+21,Collective Minds Radiology,Hamburg,HealthTech,official,,needs_review
+22,Goodgame Studios,Hamburg,Gaming,official,https://goodgamestudios.com/,needs_review
+23,InnoGames,Hamburg,Gaming,official,https://www.innogames.com/career,generic
+24,Bigpoint,Hamburg,Gaming,official,https://www.bigpoint.net/?originalURL=bigpoint.com&/careers,generic
+25,DeepL,Cologne / Berlin,AI / Language,official,https://www.deepl.com/en/careers,generic
+26,RTL Deutschland,Cologne,Media Tech,official,https://company.rtl.com/en/error/,generic
+27,REWE digital,Cologne,Retail Tech,official,,needs_review
+28,Trusted Shops,Cologne,E-commerce SaaS,official,https://www.trustedshops.de/,needs_review
+29,QuantCo,Cologne / Berlin / Munich,AI / Analytics,official,https://www.quantco.com/jobs,generic
+30,LeanIX,Bonn,Enterprise SaaS,official,https://jobs.sap.com/search/?createNewAlert=false&q=LeanIX&locationsearch=&optionsF%5B%E2%80%A6%5Drtment=&optionsFacetsDD_customfield3=&optionsFacetsDD_country=,generic
+31,Deutsche Telekom,Bonn,Telecom / Cloud,official,https://careers.telekom.com/en,generic
+32,DHL Group,Bonn,Logistics Tech,official,https://www.dhl.de/de/privatkunden.html,needs_review
+33,Deutsche Welle,Bonn / Berlin,Media Tech,official,,needs_review
+34,Zalando,Berlin,E-commerce Tech,official,https://zalando.com/careers,generic
+35,Delivery Hero,Berlin,Delivery Tech,official,,needs_review
+36,HelloFresh,Berlin,FoodTech,official,https://careers.hellofresh.com/global/en,generic
+37,N26,Berlin,FinTech,official,https://n26.com/en-eu/careers,generic
+38,Trade Republic,Berlin,FinTech,official,https://traderepublic.com/en-de,needs_review
+39,GetYourGuide,Berlin,TravelTech,official,,needs_review
+40,Contentful,Berlin,SaaS / CMS,official,,needs_review
+41,Babbel,Berlin,EdTech,official,https://www.babbel.com/,needs_review
+42,SumUp,Berlin,FinTech,official,https://www.sumup.com/careers/,generic
+43,Solaris,Berlin,FinTech,official,https://www.apollo.de/,needs_review
+44,Mambu,Berlin,FinTech SaaS,official,https://mambu.com/en/careers,generic
+45,Taxfix,Berlin,FinTech,official,https://taxfix.com/,needs_review
+46,Raisin,Berlin,FinTech,official,,needs_review
+47,Wefox,Berlin,InsurTech,official,https://www.wefox.com/,generic
+48,Clark,Berlin / Frankfurt,InsurTech,official,https://clark.com/careers,generic
+49,CoachHub,Berlin,HR Tech,official,https://www.coachhub.com/career,generic
+50,Personio,Munich / Berlin,HR Tech,official,,needs_review
+51,sennder,Berlin,Logistics Tech,official,https://www.sennder.com/career,generic
+52,Forto,Berlin,Logistics Tech,official,https://careers.forto.com/,generic
+53,Flix,Munich / Berlin,Mobility Tech,official,https://www.flixbus.com,needs_review
+54,Omio,Berlin,TravelTech,official,https://www.omio.com/,needs_review
+55,SoundCloud,Berlin,Music Tech,official,https://soundcloud.com/careers,generic
+56,Ableton,Berlin,Music Software,official,https://www.ableton.com/en/jobs/,generic
+57,Native Instruments,Berlin,Music Software,official,https://www.native-instruments.com/pages/careers,generic
+58,Wooga,Berlin,Gaming,official,https://www.wooga.com/jobs,generic
+59,Kolibri Games,Berlin,Gaming,official,https://kolibrigames.com/career,generic
+60,King Berlin,Berlin,Gaming,official,,needs_review
+61,Ubisoft Berlin,Berlin,Gaming,official,,needs_review
+62,Helsing,Berlin / Munich,Defence AI,official,https://www.helsing.com/careers/,generic
+63,Enpal,Berlin,ClimateTech,official,https://www.jobs.enpal.com/,generic
+64,1KOMMA5°,Hamburg / Berlin,ClimateTech,official,https://1komma5.com/de/,needs_review
+65,Zolar,Berlin,ClimateTech,official,https://zolar.com/,needs_review
+66,Thermondo,Berlin,ClimateTech,official,https://www.thermondo.de/unternehmen/jobs/,generic
+67,TIER Mobility,Berlin,Mobility,official,,needs_review
+68,Vay,Berlin / Hamburg,Mobility,official,https://vay.de/,needs_review
+69,Miles Mobility,Berlin,Mobility,official,https://www.hugedomains.com/domain_profile.cfm?d=milesmobility.com/careers,generic
+70,AUTO1 Group,Berlin,Automotive Tech,official,https://www.auto1-group.com/jobs/,generic
+71,HeyJobs,Berlin,HR Tech,official,https://andrewmelcher.com/,needs_review
+72,StepStone,Düsseldorf / Berlin,HR Tech,official,,needs_review
+73,ResearchGate,Berlin,Research SaaS,official,,needs_review
+74,Komoot,Potsdam / Remote,Outdoor Tech,official,https://www.komoot.com/,needs_review
+75,Ecosia,Berlin,Search / Climate,official,https://www.ecosia.org:443/about/careers/,generic
+76,Mozilla Germany,Berlin,Internet Software,official,https://www.firefox.com/,needs_review
+77,GitLab Germany,Remote Germany,DevTools,official,https://about.gitlab.com/jobs/,generic
+78,GitHub Germany,Remote Germany,DevTools,official,https://www.github.careers/careers-home,generic
+79,Datadog Germany,Berlin / Munich,Cloud Monitoring,official,https://careers.datadoghq.com,generic
+80,Snowflake Germany,Berlin / Munich,Cloud Data,official,https://www.snowflake.com/en/,needs_review
+81,MongoDB Germany,Berlin / Munich,Database,official,https://www.mongodb.com/company/careers,generic
+82,Elastic Germany,Berlin / Remote,Search / Cloud,official,https://www.elastic.com/,needs_review
+83,Confluent Germany,Remote / Munich,Data Streaming,official,https://www.confluent.io/de-de/,needs_review
+84,HashiCorp Germany,Remote Germany,Cloud Infrastructure,official,,needs_review
+85,Red Hat Germany,Munich / Remote,Enterprise Software,official,https://www.redhat.com/en/jobs,generic
+86,Canonical Germany,Remote Germany,Open Source,official,,needs_review
+87,Grafana Labs Germany,Remote Germany,Observability,official,https://grafana.com/careers/,generic
+88,Cloudflare Germany,Munich / Remote,Cloud / Security,official,https://www.cloudflare.com/careers/,generic
+89,Fastly Germany,Remote Germany,Edge Cloud,official,https://www.fastly.com/about/careers,generic
+90,Amazon Germany,Berlin / Munich / Dresden,Cloud / E-commerce,official,https://amazon.jobs/en/,generic
+91,AWS Germany,Berlin / Munich / Frankfurt,Cloud,official,https://aws.amazon.com/careers/,generic
+92,Google Germany,Munich / Berlin / Hamburg,Big Tech,official,https://www.google.com/about/careers/applications/,generic
+93,Microsoft Germany,Munich / Berlin / Hamburg,Big Tech / Cloud,official,https://www.microsoft.com/en-us,needs_review
+94,Apple Germany,Munich / Berlin,Consumer Tech,official,https://www.apple.com/careers/us/,generic
+95,Meta Germany,Berlin / Hamburg,Big Tech,official,https://www.meta.de/de/stellenangebote,generic
+96,IBM Germany,Multiple cities,Enterprise Tech,official,https://www.ibm.com/careers,generic
+97,Oracle Germany,Multiple cities,Enterprise Software,official,,needs_review
+98,SAP,Walldorf / Berlin / Munich,Enterprise Software,official,,needs_review
+99,Salesforce Germany,Munich / Berlin / Frankfurt,Enterprise SaaS,official,https://www.salesforce.com/?bc=DB/careers,generic
+100,ServiceNow Germany,Munich / Frankfurt,Enterprise SaaS,official,,needs_review
+101,Workday Germany,Munich,Enterprise SaaS,official,https://www.workday.com/en-us/company/careers/overview.html,generic
+102,Atlassian Germany,Remote / Berlin,DevTools,official,https://www.atlassian.com/company/careers,generic
+103,JetBrains Germany,Munich / Berlin,DevTools,official,https://www.jetbrains.com/careers/,generic
+104,Celonis,Munich,Process Mining,official,https://careers.celonis.com,generic
+105,UiPath Germany,Munich,Automation,official,https://www.uipath.com/careers,generic
+106,Palantir Germany,Munich,Data / AI,official,https://www.palantir.com/careers,generic
+107,OpenAI Germany,Munich,AI,official,https://openai.com/careers/,generic
+108,NVIDIA Germany,Munich / Berlin,AI / Semiconductors,official,https://www.nvidia.com/en-us/,needs_review
+109,Intel Germany,Munich / Karlsruhe,Semiconductors,official,https://www.intel.com/content/www/us/en/homepage.html,needs_review
+110,AMD Germany,Munich,Semiconductors,official,https://amd.de/careers,generic
+111,Qualcomm Germany,Munich / Berlin,Semiconductors,official,https://www.qualcomm.com/company/careers,generic
+112,Arm Germany,Munich,Semiconductors,official,https://www.arm.com/en/careers,generic
+113,Infineon,Munich / Dresden,Semiconductors,official,https://www.infineon.com/careers,generic
+114,Bosch,Stuttgart / Multiple,Industrial / IoT,official,https://www.bosch.com/careers/,generic
+115,Bosch Digital,Stuttgart / Berlin,Enterprise Digital,official,https://www.bosch.com/careers/,generic
+116,Siemens,Munich / Erlangen / Berlin,Industrial Tech,official,https://www.siemens.com/en-us/company/jobs/,generic
+117,Siemens Energy,Munich / Berlin / Erlangen,Energy Tech,official,https://www.siemens-energy.com/global/en/home.html,needs_review
+118,Siemens Healthineers,Erlangen / Munich,HealthTech,official,https://www.siemens-healthineers.com/careers,generic
+119,BMW Group,Munich,Automotive Software,official,,needs_review
+120,Mercedes-Benz,Stuttgart,Automotive Software,official,,needs_review
+121,Mercedes-Benz Tech Innovation,Stuttgart / Berlin,Automotive Software,official,,needs_review
+122,Porsche,Stuttgart,Automotive Software,official,https://www.porsche.com/usa/?cs_redirect=1/careers,generic
+123,Porsche Digital,Stuttgart / Berlin,Automotive Digital,official,https://www.porsche.com/usa/?cs_redirect=1/careers,generic
+124,Volkswagen Group,Wolfsburg / Berlin,Automotive Software,official,https://www.volkswagen.de/de.html/careers,generic
+125,CARIAD,Wolfsburg / Berlin / Munich,Automotive Software,official,https://cariad.com/careers,generic
+126,Audi,Ingolstadt / Munich,Automotive Software,official,https://www.audi.com/en/careers-at-audidriven-by-tech-driven-by-people-17124,generic
+127,MAN Truck & Bus,Munich,Automotive / Embedded,official,,needs_review
+128,TRATON,Munich,Commercial Vehicle Tech,official,https://traton.com/en.html,needs_review
+129,Continental,Hanover / Frankfurt,Automotive Tech,official,https://www.continental.com/en/career/,generic
+130,ZF,Friedrichshafen,Automotive Tech,official,https://www.zf.com/mobile/en/homepage/homepage.html,needs_review
+131,Schaeffler,Herzogenaurach,Industrial / Automotive,official,,needs_review
+132,MAHLE,Stuttgart,Automotive Tech,official,https://www.mahle.com/,needs_review
+133,Brose,Coburg / Bamberg,Automotive Tech,official,,needs_review
+134,Webasto,Stockdorf,Automotive Tech,official,https://www.webasto.com/en-int.html/careers.html,generic
+135,Knorr-Bremse,Munich,Mobility Tech,official,,needs_review
+136,Daimler Truck,Leinfelden-Echterdingen,Commercial Vehicle Tech,official,https://www.daimlertruck.com/en/career,generic
+137,Tesla Germany,Berlin-Brandenburg,EV / Manufacturing Tech,official,https://tesla.de/,needs_review
+138,Rivian Germany,Munich,EV Software,official,https://careers.rivian.com/careers-home/,generic
+139,Wayve Germany,Leonberg,Autonomous Driving,official,,needs_review
+140,Aptiv Germany,Wuppertal / Munich,Automotive Software,official,https://www.aptiv.com/en/jobs,generic
+141,HERE Technologies,Berlin,Maps / Location,official,https://www.here.com:443/about/careers,generic
+142,TomTom Germany,Berlin,Maps / Location,official,https://www.tomtom.com/careers/,generic
+143,Garmin Germany,Garching,Navigation Tech,official,https://www.garmin.com/en-US/careers/,generic
+144,TeamViewer,Göppingen,Remote Access SaaS,official,https://www.teamviewer.com/en-us/,needs_review
+145,AnyDesk,Stuttgart,Remote Access SaaS,official,,needs_review
+146,IONOS,Karlsruhe / Berlin,Cloud / Hosting,official,https://www.ionos.com/,needs_review
+147,United Internet,Montabaur / Karlsruhe,Internet Services,official,https://www.united-internet.de/,needs_review
+148,1&1,Montabaur / Karlsruhe,Telecom / Internet,official,https://www.onebullex.com/careers,generic
+149,IONITY,Munich,EV Charging,official,,needs_review
+150,ChargePoint Germany,Munich / Berlin,EV Charging,official,https://www.chargepoint.com/about/opportunities,generic
+151,E.ON,Essen / Berlin / Munich,Energy Tech,official,,needs_review
+152,RWE,Essen,Energy Tech,official,https://www.rwe.com/en/rwe-careers-portal/,generic
+153,EnBW,Karlsruhe / Stuttgart,Energy Tech,official,https://www.enbw.com/career/,generic
+154,Vattenfall Germany,Berlin / Hamburg,Energy Tech,official,https://careers.vattenfall.com:443/global/?utm_source=corporate&utm_medium=referral,generic
+155,Uniper,Düsseldorf,Energy Tech,official,,needs_review
+156,50Hertz,Berlin,Grid Tech,official,https://wartung.50hertz.com/Error,generic
+157,TenneT Germany,Bayreuth / Hanover,Grid Tech,official,,needs_review
+158,Amprion,Dortmund,Grid Tech,official,,needs_review
+159,LEAG,Cottbus,Energy / Digital,official,https://www.leag.de/de/karriere/,generic
+160,BASF,Ludwigshafen,Chemical / Digital,official,https://www.basf.com/us/en/careers,generic
+161,Bayer,Leverkusen / Berlin,Life Science / Digital,official,,needs_review
+162,Merck KGaA,Darmstadt,Science / Digital,official,,needs_review
+163,Boehringer Ingelheim,Ingelheim,Pharma / Digital,official,https://www.boehringer-ingelheim.com/careers,generic
+164,BioNTech,Mainz,Biotech / Data,official,https://www.biontech.com/us/en/home.html,needs_review
+165,Qiagen,Hilden,Biotech / Software,official,https://www.qiagen.com/us/careers,generic
+166,Sartorius,Göttingen,Life Science Tech,official,https://www.sartorius.com/en/company/careers,generic
+167,Fresenius,Bad Homburg,Healthcare / Digital,official,https://www.fresenius.com/Careers,generic
+168,Fresenius Medical Care,Bad Homburg,MedTech / Digital,official,https://jobs.freseniusmedicalcare.com/,generic
+169,Carl Zeiss,Oberkochen / Jena,Optics / Software,official,https://carl-zeiss.com/careers,generic
+170,Dräger,Lübeck,MedTech / Embedded,official,,needs_review
+171,Ottobock,Duderstadt / Berlin,MedTech,official,https://www.ottobock.com/de-de/startseite,needs_review
+172,Brainlab,Munich,MedTech Software,official,https://www.brainlab.com/career/,generic
+173,CompuGroup Medical,Koblenz,HealthTech,official,https://www.cgm.com/corp_en,needs_review
+174,Doctolib Germany,Berlin,HealthTech,official,https://www.doctolib.fr/,needs_review
+175,Ada Health,Berlin,Health AI,official,https://ada.com/?mtm_source=adahealth-de/careers,generic
+176,Mimi Hearing Technologies,Berlin,HealthTech,official,https://mimi.io/careers,generic
+177,Kaia Health,Munich,Digital Health,official,https://kaiahealth.com/,needs_review
+178,Temedica,Munich,Digital Health,official,https://temedica.com/,needs_review
+179,ProSiebenSat.1,Munich,Media Tech,official,https://www.prosiebensat1.com/,needs_review
+180,Sky Deutschland,Munich,Media Tech,official,https://careers.sky.com/,generic
+181,Axel Springer,Berlin / Hamburg,Media Tech,official,https://www.axelspringer.com/de/,needs_review
+182,ZEIT Verlagsgruppe,Hamburg,Media / Digital,official,https://www.zeit-verlagsgruppe.de/jobs/,generic
+183,Der Spiegel,Hamburg,Media / Digital,official,https://www.spiegel.de,needs_review
+184,Gruner + Jahr / RTL,Hamburg,Media Tech,official,,needs_review
+185,Hubert Burda Media,Munich,Media Tech,official,https://www.burda.com/de/karriere/,generic
+186,Scout24,Munich / Berlin,Marketplace Tech,official,https://www.scout24.com/en/career,generic
+187,ImmobilienScout24,Berlin,PropTech,official,,needs_review
+188,ImmoScout24,Berlin,PropTech,official,,needs_review
+189,McMakler,Berlin,PropTech,official,https://www.mcmakler.de/en/careers,generic
+190,Homeday,Berlin,PropTech,official,https://www.homeday.de:443/de/jobs/,generic
+191,Spryker,Berlin / Hamburg,Commerce SaaS,official,https://spryker.com/career,generic
+192,commercetools,Munich / Berlin,Commerce SaaS,official,https://commercetools.com/careers,generic
+193,Shopify Germany,Remote Germany,Commerce SaaS,official,https://www.shopify.com/careers,generic
+194,eBay Germany,Berlin / Kleinmachnow,Marketplace Tech,official,,needs_review
+195,Kleinanzeigen,Berlin,Marketplace Tech,official,https://de.kleinanzeigen.com/,generic
+196,Idealo,Berlin,Comparison Tech,official,https://flights.idealo.com:443/,needs_review
+197,CHECK24,Munich / Hamburg / Cologne,Comparison Tech,official,https://jobs.check24.de/de/,generic
+198,Verivox,Heidelberg / Berlin,Comparison Tech,official,https://www.verivox.de/?utm_source=verivox.com&utm_medium=referral&utm_campaign=vergleiche.auf.verivox.de/careers,generic
+199,HomeToGo,Berlin,TravelTech,official,,needs_review
+200,Tourlane,Berlin,TravelTech,official,https://careers.tourlane.com/,generic
+201,trivago,Düsseldorf,TravelTech,official,,needs_review
+202,Booking.com Germany,Berlin / Munich,TravelTech,official,https://booking-com.com/careers,generic
+203,Expedia Group Germany,Berlin / Munich,TravelTech,official,,needs_review
+204,Lufthansa Group,Frankfurt / Hamburg,Aviation Tech,official,,needs_review
+205,Lufthansa Innovation Hub,Berlin,TravelTech,official,,needs_review
+206,Deutsche Bahn,Berlin / Frankfurt,Mobility Tech,official,https://db.jobs/de-de,generic
+207,DB Systel,Frankfurt / Berlin,Rail IT,official,,needs_review
+208,SIXT,Munich,Mobility Tech,official,https://www.sixt.com/,needs_review
+209,Miles & More,Frankfurt,Loyalty Tech,official,,needs_review
+210,Fraport,Frankfurt,Airport Tech,official,https://www.fraport.com/de.html,needs_review
+211,Munich Airport,Munich,Airport Tech,official,https://www.munich-airport.com/careers-263141,generic
+212,Deutsche Bank,Frankfurt / Berlin,Banking Tech,official,https://www.deutsche-bank.de/pk.html,needs_review
+213,Commerzbank,Frankfurt,Banking Tech,official,https://www.commerzbank.de/group/careers/,generic
+214,ING Germany,Frankfurt / Nuremberg,Banking Tech,official,https://ing.com/careers,generic
+215,KfW,Frankfurt,Banking / Digital,official,https://www.kfw.de/kfw.de.html,needs_review
+216,DZ Bank,Frankfurt,Banking Tech,official,https://www.dzbank.com,generic
+217,DekaBank,Frankfurt,Banking Tech,official,https://www.deka.de/privatkunden/fehler/fehler_404,generic
+218,Deutsche Börse,Frankfurt,FinTech / Markets,official,,needs_review
+219,Allianz,Munich,Insurance Tech,official,https://www.allianz.com/en.html/careers,generic
+220,Allianz Technology,Munich,Insurance IT,official,https://allianztechnology.com/careers,generic
+221,Munich Re,Munich,Insurance / Data,official,https://www.munichre.com/en.html,needs_review
+222,Hannover Re,Hanover,Insurance Tech,official,https://www.hannover-re.com:443/en/career,generic
+223,Talanx,Hanover,Insurance Tech,official,https://www.talanx.com/en,needs_review
+224,ERGO Group,Düsseldorf,Insurance Tech,official,https://www.nextinsurance.com/?redirect_from=ergo/careers,generic
+225,HUK-COBURG,Coburg,Insurance Tech,official,,needs_review
+226,LBBW,Stuttgart,Banking Tech,official,https://www.lbbw.de/startseite/startseite_6kyjj4koh_d.html,needs_review
+227,NORD/LB,Hanover,Banking Tech,official,https://www.nordlb.com/career,generic
+228,DATEV,Nuremberg,Business Software,official,https://www.datev.com/careers,generic
+229,SUSE,Nuremberg / Remote,Open Source,official,https://www.suse.com/careers/,generic
+230,Semikron Danfoss,Nuremberg,Power Electronics,official,https://www.semikron-danfoss.com/careers,generic
+231,adidas,Herzogenaurach,Retail / Digital,official,,needs_review
+232,PUMA,Herzogenaurach,Retail / Digital,official,https://us.puma.com/us/en/careers,generic
+233,Zalando Lounge,Berlin,E-commerce Tech,official,https://www.zalando-lounge.com/selectcountry,generic
+234,Douglas,Düsseldorf,Retail Tech,official,https://www.douglas.ca/?utm_source=direct&utm_medium=douglas_com/careers,generic
+235,C&A,Düsseldorf,Retail / Digital,official,https://www.broadcom.com/company/careers,generic
+236,Metro AG,Düsseldorf,Wholesale Tech,official,https://www.paycomonline.net/v4/ats/web.php/portal/E1EA9276FE3A682DD15CD3D2402B9E5E/career-page,generic
+237,Henkel,Düsseldorf,Consumer / Digital,official,https://www.henkel.com/careers,generic
+238,Vorwerk,Wuppertal,Consumer / Digital,official,https://www.vorwerk.com/,needs_review
+239,Miele,Gütersloh,Consumer / IoT,official,https://www.miele.com/en/com/index.htm/careers,generic
+240,BSH Hausgeräte,Munich,Consumer / IoT,official,,needs_review
+241,Lidl Digital,Neckarsulm / Berlin,Retail Tech,official,https://www.lidl.com/,needs_review
+242,Schwarz IT,Neckarsulm,Retail IT,official,https://netfreax.de/,needs_review
+243,Kaufland e-commerce,Cologne / Berlin,E-commerce Tech,official,,needs_review
+244,dmTECH,Karlsruhe,Retail Tech,official,https://www.dmtech.tech/de/,needs_review
+245,Rossmann IT,Burgwedel,Retail Tech,official,,needs_review
+246,Hornbach,Bornheim,Retail Tech,official,https://www.hornbach.de/careers,generic
+247,MediaMarktSaturn,Ingolstadt / Munich,Retail Tech,official,https://www.ceconomy-mms.com/de/ceconomy,needs_review
+248,Ceconomy,Düsseldorf,Retail Tech,official,,needs_review
+249,Würth,Künzelsau,B2B / Digital,official,https://wrth.com/careers,generic
+250,Festo,Esslingen,Industrial Automation,official,,needs_review
+251,Kuehne+Nagel Germany,Hamburg,"Travel, Mobility & Logistics Tech",research_lead,https://www.kuehne-nagel.com/,needs_review
+252,Airbus Germany,Hamburg / Munich,"Automotive, Industrial, Robotics & Semiconductors",research_lead,https://www.airbus.com/en/careers,generic
+253,GitLab,Germany / remote,Big Tech & Global Technology,research_lead,https://about.gitlab.com/jobs/,generic
+254,Datadog,Berlin / remote,Big Tech & Global Technology,research_lead,https://careers.datadoghq.com,generic
+255,Snowflake,Berlin / Munich,Big Tech & Global Technology,research_lead,https://www.snowflake.com/en/,needs_review
+256,MongoDB,Berlin / remote,Big Tech & Global Technology,research_lead,https://www.mongodb.com/company/careers,generic
+257,Elastic,Germany / remote,Big Tech & Global Technology,research_lead,https://www.elastic.com/,needs_review
+258,Red Hat,multiple,Big Tech & Global Technology,research_lead,https://www.redhat.com/en/jobs,generic
+259,Grafana Labs,Germany / remote,German SaaS & Enterprise Software,research_lead,https://grafana.com/careers/,generic
+260,Cloudflare,Germany / remote,Big Tech & Global Technology,research_lead,https://www.cloudflare.com/careers/,generic
+261,Amazon,Berlin / Munich / multiple,Big Tech & Global Technology,research_lead,https://amazon.jobs/en/,generic
+262,Google,Munich / Berlin / Hamburg,Big Tech & Global Technology,research_lead,https://www.google.com/about/careers/applications/,generic
+263,Microsoft,Munich / Berlin,Big Tech & Global Technology,research_lead,https://www.microsoft.com/en-us,needs_review
+264,Apple,Munich,Big Tech & Global Technology,research_lead,https://www.apple.com/careers/us/,generic
+265,Meta,Berlin / Hamburg / remote,Big Tech & Global Technology,research_lead,https://www.meta.de/de/stellenangebote,generic
+266,IBM,multiple,Big Tech & Global Technology,research_lead,https://www.ibm.com/careers,generic
+267,Oracle,multiple,Big Tech & Global Technology,research_lead,,needs_review
+268,Salesforce,Munich / Berlin,Big Tech & Global Technology,research_lead,https://www.salesforce.com/?bc=DB/careers,generic
+269,ServiceNow,Frankfurt / Munich,Big Tech & Global Technology,research_lead,,needs_review
+270,Workday,Munich,Big Tech & Global Technology,research_lead,https://www.workday.com/en-us/company/careers/overview.html,generic
+271,Atlassian,Germany / remote,Big Tech & Global Technology,research_lead,https://www.atlassian.com/company/careers,generic
+272,JetBrains,Munich,Big Tech & Global Technology,research_lead,https://www.jetbrains.com/careers/,generic
+273,UiPath,Munich,Big Tech & Global Technology,research_lead,https://www.uipath.com/careers,generic
+274,Palantir,Munich,Big Tech & Global Technology,research_lead,https://www.palantir.com/careers,generic
+275,OpenAI,Munich,Big Tech & Global Technology,research_lead,https://openai.com/careers/,generic
+276,NVIDIA,Munich / Berlin,Big Tech & Global Technology,research_lead,https://www.nvidia.com/en-us/,needs_review
+277,Intel,Munich,Big Tech & Global Technology,research_lead,https://www.intel.com/content/www/us/en/homepage.html,needs_review
+278,Qualcomm,Munich / Berlin,Big Tech & Global Technology,research_lead,https://www.qualcomm.com/company/careers,generic
+279,Vattenfall,Berlin / Hamburg,"Telecom, Public Infrastructure & Research",research_lead,https://careers.vattenfall.com:443/global/?utm_source=corporate&utm_medium=referral,generic
+280,Deutsche Börse Group,Frankfurt,"FinTech, Banking & Insurance Tech",research_lead,,needs_review
+281,Cisco,multiple,Big Tech & Global Technology,research_lead,https://www.cisco.com/careers/,generic
+282,Samsung Electronics,multiple,Big Tech & Global Technology,research_lead,https://samsungelectronics.de/careers,generic
+283,Huawei,Munich / Düsseldorf / Nuremberg,Big Tech & Global Technology,research_lead,,needs_review
+284,Adobe,Hamburg / Munich,Big Tech & Global Technology,research_lead,https://www.adobe.com/careers.html,generic
+285,Dell Technologies,multiple,Big Tech & Global Technology,research_lead,https://www.dell.com/en-us,generic
+286,Hewlett Packard Enterprise,multiple,Big Tech & Global Technology,research_lead,,needs_review
+287,Dropbox,Hamburg / remote,Big Tech & Global Technology,research_lead,https://www.dropbox.com/,needs_review
+288,Twilio,Germany / remote,Big Tech & Global Technology,research_lead,https://www.twilio.com/en-us,needs_review
+289,Stripe,Berlin / remote,Big Tech & Global Technology,research_lead,https://stripe.com/careers,generic
+290,Anthropic,Munich,Big Tech & Global Technology,research_lead,https://www.anthropic.com/careers,generic
+291,Databricks,Munich / Berlin,Big Tech & Global Technology,research_lead,https://www.databricks.com/company/careers,generic
+292,Zoom,Germany / remote,Big Tech & Global Technology,research_lead,https://careers.zoom.us/home,generic
+293,VMware by Broadcom,Germany,Big Tech & Global Technology,research_lead,https://vmwarebybroadcom.com/careers,generic
+294,Akamai,Munich / remote,Big Tech & Global Technology,research_lead,,needs_review
+295,Staffbase,Chemnitz / Berlin,German SaaS & Enterprise Software,research_lead,https://staffbase.com/careers,generic
+296,Miro,Berlin,German SaaS & Enterprise Software,research_lead,https://miro.com/careers/,generic
+297,Mendix,Frankfurt / multiple,German SaaS & Enterprise Software,research_lead,https://www.mendix.com/careers/,generic
+298,Signavio,Berlin,German SaaS & Enterprise Software,research_lead,https://jobs.sap.com/search/?createNewAlert=false&q=%23SAPbpicareer&optionsFacetsDD_department&optionsFacetsDD_customfield3&optionsFacetsDD_country&locationsearch&locale=en_US,generic
+299,Contentstack,Germany / remote,German SaaS & Enterprise Software,research_lead,https://www.contentstack.com/company/careers,generic
+300,Camunda,Berlin / remote,German SaaS & Enterprise Software,research_lead,https://camunda.com/careers/,generic
+301,Hygraph,Berlin,German SaaS & Enterprise Software,research_lead,https://hygraph.recruitee.com/,generic
+302,Masterplan,Berlin,German SaaS & Enterprise Software,research_lead,https://masterplan.com/teams-und-karriere,generic
+303,Pitch,Berlin,German SaaS & Enterprise Software,research_lead,https://pitch.com/jobs,generic
+304,Zenjob,Berlin,German SaaS & Enterprise Software,research_lead,https://www.zenjob.com/de/jobs/,generic
+305,Choco,Berlin,German SaaS & Enterprise Software,research_lead,https://choco.com/us/careers,generic
+306,Honeypot,Berlin,German SaaS & Enterprise Software,research_lead,https://www.honeypot.com/,needs_review
+307,Talon.One,Berlin,German SaaS & Enterprise Software,research_lead,,needs_review
+308,Parloa,Berlin,German SaaS & Enterprise Software,research_lead,https://www.parloa.com/careers/,generic
+309,N8N,Berlin / remote,German SaaS & Enterprise Software,research_lead,,needs_review
+310,Aiven,Berlin / remote,German SaaS & Enterprise Software,research_lead,https://www.aiven.com/,needs_review
+311,Software AG,Darmstadt,German SaaS & Enterprise Software,research_lead,https://www.software.de/,needs_review
+312,USU Software,Möglingen / multiple,German SaaS & Enterprise Software,research_lead,https://www.usu.com/en/careers,generic
+313,Canto,Berlin,German SaaS & Enterprise Software,research_lead,https://www.canto.com/careers/,generic
+314,Productsup,Berlin,German SaaS & Enterprise Software,research_lead,https://www.productsup.com/careers/,generic
+315,Remerge,Berlin,German SaaS & Enterprise Software,research_lead,https://remerge.com/careers,generic
+316,Keboola,Berlin / remote,German SaaS & Enterprise Software,research_lead,https://www.keboola.com/about/this-is-keboola,generic
+317,Deutsche Telekom IT,Bonn / multiple,German SaaS & Enterprise Software,research_lead,,needs_review
+318,T-Systems,multiple,German SaaS & Enterprise Software,research_lead,https://www.t-systems.com/de/en/company/careers,generic
+319,msg systems,multiple,German SaaS & Enterprise Software,research_lead,https://msgsystems.com/careers,generic
+320,Materna,Dortmund / multiple,German SaaS & Enterprise Software,research_lead,https://www.materna.de/en#c5403,generic
+321,adesso,multiple,German SaaS & Enterprise Software,research_lead,https://www.adesso.de/de/jobs-karriere/einstiegsmoeglichkeiten/index.jsp,generic
+322,GFT Technologies,Stuttgart / multiple,German SaaS & Enterprise Software,research_lead,https://www.gft.com:443/sg/en/career,generic
+323,Etsy,Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,,needs_review
+324,Wayfair,Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,,needs_review
+325,Westwing,Munich,"E-commerce, Marketplace & Consumer Tech",research_lead,https://www.westwing.com/careers/,generic
+326,Home24,Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,,needs_review
+327,Breuninger,Stuttgart,"E-commerce, Marketplace & Consumer Tech",research_lead,https://www.breuninger.com/de/,needs_review
+328,Flaconi,Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,https://www.flaconi.de/karriere/en/,generic
+329,Mister Spex,Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,https://corporate.misterspex.com/de/karriere/,generic
+330,Fashionette,Düsseldorf,"E-commerce, Marketplace & Consumer Tech",research_lead,https://www.fashionette.de/static/jobs,generic
+331,Chrono24,Karlsruhe / Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,,needs_review
+332,mobile.de,Berlin / Kleinmachnow,"E-commerce, Marketplace & Consumer Tech",research_lead,https://mobile-de.com/careers,generic
+333,Momox,Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,https://www.momox.com/careers,generic
+334,rebuy,Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,https://www.rebuy.de/,needs_review
+335,Grover,Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,https://www.grover.com/de-de,needs_review
+336,Back Market,Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,https://www.backmarket.com/en-us,needs_review
+337,rebell,Hamburg,"E-commerce, Marketplace & Consumer Tech",research_lead,https://www.rebell.com/,needs_review
+338,KoRo,Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,https://www.koro.com/bede/career,generic
+339,Foodspring,Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,,needs_review
+340,Flink,Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,,needs_review
+341,Picnic,Düsseldorf / multiple,"E-commerce, Marketplace & Consumer Tech",research_lead,https://vipbrokerage.com/picnic/careers,generic
+342,Wolt Germany,Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,https://careers.wolt.com/en,generic
+343,Uber,Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,https://jobs.uber.com/en/,generic
+344,Bolt,Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,https://bolt.de/careers,generic
+345,Getir Germany,Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,,needs_review
+346,Zooplus,Munich,"E-commerce, Marketplace & Consumer Tech",research_lead,https://careers.zooplus.com,generic
+347,DocMorris,Berlin / Aachen,"E-commerce, Marketplace & Consumer Tech",research_lead,https://www.docmorris.de/,needs_review
+348,Shop Apotheke / Redcare Pharmacy,Cologne / remote,"E-commerce, Marketplace & Consumer Tech",research_lead,,needs_review
+349,Thalia,Hagen / Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,https://thalia.com/,needs_review
+350,Spread Group,Leipzig,"E-commerce, Marketplace & Consumer Tech",research_lead,,needs_review
+351,Mymuesli,Passau / Berlin,"E-commerce, Marketplace & Consumer Tech",research_lead,https://www.mymuesli.com/,needs_review
+352,Scalable Capital,Munich / Berlin,"FinTech, Banking & Insurance Tech",research_lead,https://de.scalable.capital:443/careers,generic
+353,Moss,Berlin,"FinTech, Banking & Insurance Tech",research_lead,https://moss.com/why-moss/,generic
+354,Penta,Berlin,"FinTech, Banking & Insurance Tech",research_lead,https://penta.com/careers-at-penta/,generic
+355,Qonto Germany,Berlin,"FinTech, Banking & Insurance Tech",research_lead,https://qonto.com/en/careers,generic
+356,Mollie,Munich / Berlin,"FinTech, Banking & Insurance Tech",research_lead,https://www.mollie.com/,needs_review
+357,Klarna Germany,Berlin,"FinTech, Banking & Insurance Tech",research_lead,https://www.klarna.com/careers,generic
+358,Adyen Germany,Berlin / Munich,"FinTech, Banking & Insurance Tech",research_lead,https://careers.adyen.com/,generic
+359,PayPal Germany,Berlin / Dreilinden,"FinTech, Banking & Insurance Tech",research_lead,https://www.paypal.com/us/home,generic
+360,Stripe Germany,Berlin,"FinTech, Banking & Insurance Tech",research_lead,https://stripe.com/careers,generic
+361,Wise,Berlin,"FinTech, Banking & Insurance Tech",research_lead,https://wise.jobs/,generic
+362,Revolut Germany,Berlin / remote,"FinTech, Banking & Insurance Tech",research_lead,https://www.revolut.com/careers/,generic
+363,Moonfare,Berlin,"FinTech, Banking & Insurance Tech",research_lead,https://www.moonfare.com/us/careers,generic
+364,Upvest,Berlin,"FinTech, Banking & Insurance Tech",research_lead,https://upvest.com/careers,generic
+365,Finleap,Berlin,"FinTech, Banking & Insurance Tech",research_lead,https://finleap.com/,needs_review
+366,Getsafe,Heidelberg / Berlin,"FinTech, Banking & Insurance Tech",research_lead,https://www.getsafe.com/,needs_review
+367,Friday,Berlin,"FinTech, Banking & Insurance Tech",research_lead,https://www.allianzdirect.de/karriere/,generic
+368,Element Insurance,Berlin,"FinTech, Banking & Insurance Tech",research_lead,https://elementinsurance.com/careers,generic
+369,Hepster,Rostock / Berlin,"FinTech, Banking & Insurance Tech",research_lead,https://partner.hepster.com/de-de/unternehmen/karriere,generic
+370,ERGO Technology & Services,Düsseldorf,"FinTech, Banking & Insurance Tech",research_lead,,needs_review
+371,DKB,Berlin,"FinTech, Banking & Insurance Tech",research_lead,,needs_review
+372,N26 Bank,Berlin,"FinTech, Banking & Insurance Tech",research_lead,https://n26bank.de/careers,generic
+373,Euronext Germany,Frankfurt,"FinTech, Banking & Insurance Tech",research_lead,https://www.euronext.com/en/about/careers,generic
+374,Baader Bank,Munich,"FinTech, Banking & Insurance Tech",research_lead,https://www.baaderbank.de/en/careers,generic
+375,DWS Group,Frankfurt,"FinTech, Banking & Insurance Tech",research_lead,https://www.dws.com/en-us/,needs_review
+376,BlackRock Germany,Frankfurt / Munich,"FinTech, Banking & Insurance Tech",research_lead,https://www.blackrock.com/us/individual,needs_review
+377,Goldman Sachs Germany,Frankfurt,"FinTech, Banking & Insurance Tech",research_lead,,needs_review
+378,JPMorgan Germany,Frankfurt,"FinTech, Banking & Insurance Tech",research_lead,https://www.jpmorgan.com/global,needs_review
+379,Morgan Stanley Germany,Frankfurt,"FinTech, Banking & Insurance Tech",research_lead,,needs_review
+380,Citi Germany,Frankfurt,"FinTech, Banking & Insurance Tech",research_lead,https://jobs.citi.com,generic
+381,Avaloq,Berlin,"FinTech, Banking & Insurance Tech",research_lead,,needs_review
+382,Worldline Germany,Frankfurt / Aachen,"FinTech, Banking & Insurance Tech",research_lead,https://worldline.com/,needs_review
+383,Nexi Germany,Eschborn,"FinTech, Banking & Insurance Tech",research_lead,https://www.nexi.de/de,needs_review
+384,Sunday,Hamburg,"AdTech, Gaming, Media & Entertainment",research_lead,,needs_review
+385,justDice,Hamburg,"AdTech, Gaming, Media & Entertainment",research_lead,https://www.hugedomains.com/domain_profile.cfm?d=justdice.com/careers,generic
+386,Adjust,Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,,needs_review
+387,Smaato,Hamburg,"AdTech, Gaming, Media & Entertainment",research_lead,https://verve.com/careers/,generic
+388,Kayzen,Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,https://www.domainmarkt.de/kayzen.de,needs_review
+389,YOC,Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,https://yoc.com/career,generic
+390,PubMatic Germany,Hamburg / Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,https://pubmatic.com/careers/home/,generic
+391,Criteo Germany,Munich,"AdTech, Gaming, Media & Entertainment",research_lead,,needs_review
+392,The Trade Desk Germany,Hamburg / Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,https://careers.thetradedesk.com/,generic
+393,Magnite Germany,Hamburg,"AdTech, Gaming, Media & Entertainment",research_lead,https://www.magnite.com/careers/,generic
+394,Taboola Germany,Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,https://www.taboola.com/careers,generic
+395,Outbrain Germany,Munich,"AdTech, Gaming, Media & Entertainment",research_lead,https://www.teads.com/teads-careers/,generic
+396,AppLovin Germany,Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,https://applovin.com/en/careers,generic
+397,Unity Technologies Germany,Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,https://unity.com/careers,generic
+398,King,Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,https://www.king.com/,needs_review
+399,Riot Games Germany,Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,https://www.riotgames.com/en,needs_review
+400,Ubisoft Germany,Düsseldorf / Mainz / Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,https://www.ubisoft.com/en-us/company/careers,generic
+401,Crytek,Frankfurt,"AdTech, Gaming, Media & Entertainment",research_lead,https://www.crytek.com/career,generic
+402,GameDuell,Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,https://www.gameduell.com/gd/,needs_review
+403,YAGER,Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,https://yager.de/careers/,generic
+404,Travian Games,Munich,"AdTech, Gaming, Media & Entertainment",research_lead,https://www.traviangames.com/en/career,generic
+405,HandyGames,Giebelstadt,"AdTech, Gaming, Media & Entertainment",research_lead,https://handygames.de/,needs_review
+406,Deep Silver,Munich,"AdTech, Gaming, Media & Entertainment",research_lead,https://www.deepsilver.com/,needs_review
+407,Keen Games,Frankfurt,"AdTech, Gaming, Media & Entertainment",research_lead,https://www.keengames.com/jobs,generic
+408,Remote Control Productions,Munich,"AdTech, Gaming, Media & Entertainment",research_lead,http://hanszimmer.com/careers,generic
+409,Spotify Germany,Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,https://open.spotify.com/,needs_review
+410,Deezer Germany,Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,https://www.deezerjobs.com/en/,generic
+411,Universal Music Germany,Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,https://www.universalmusic.com/careers/,generic
+412,Bertelsmann Tech,Gütersloh / Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,,needs_review
+413,RTL Technology,Cologne,"AdTech, Gaming, Media & Entertainment",research_lead,,needs_review
+414,ProSiebenSat.1 Tech,Munich,"AdTech, Gaming, Media & Entertainment",research_lead,,needs_review
+415,Axel Springer Tech,Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,,needs_review
+416,Ringier Axel Springer,Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,,needs_review
+417,ZEIT Online,Hamburg / Berlin,"AdTech, Gaming, Media & Entertainment",research_lead,https://zeitonline.com/en/careers,generic
+418,DER SPIEGEL Tech,Hamburg,"AdTech, Gaming, Media & Entertainment",research_lead,,needs_review
+419,Hubert Burda Media Tech,Munich,"AdTech, Gaming, Media & Entertainment",research_lead,,needs_review
+420,Funke Digital,Berlin / Essen,"AdTech, Gaming, Media & Entertainment",research_lead,https://www.funke.de/de/karriere/,generic
+421,Holidu,Munich,"Travel, Mobility & Logistics Tech",research_lead,https://www.holidu.com/careers,generic
+422,Skyscanner Germany,Berlin,"Travel, Mobility & Logistics Tech",research_lead,https://www.skyscanner.com/sttc/px/captcha-v2/index.html?url=Lz8=&uuid=57e15840-a315-11f1-8491-68af9128f111&vid=/careers,generic
+423,Lufthansa Group Digital,Frankfurt / Berlin / Hamburg,"Travel, Mobility & Logistics Tech",research_lead,,needs_review
+424,Eurowings Digital,Cologne,"Travel, Mobility & Logistics Tech",research_lead,,needs_review
+425,TUI Tech,Hanover / Berlin,"Travel, Mobility & Logistics Tech",research_lead,https://tuitech.com/careers,generic
+426,Voi Germany,Berlin,"Travel, Mobility & Logistics Tech",research_lead,https://voi.com/,needs_review
+427,Finn,Munich,"Travel, Mobility & Logistics Tech",research_lead,https://www.finn.com/de-DE/careers,generic
+428,Wunder Mobility,Hamburg,"Travel, Mobility & Logistics Tech",research_lead,https://www.wundermobility.com/en/company/careers,generic
+429,Door2Door,Berlin,"Travel, Mobility & Logistics Tech",research_lead,,needs_review
+430,BVG Digital,Berlin,"Travel, Mobility & Logistics Tech",research_lead,https://www.bvg.de/de/karriere,generic
+431,Deutsche Bahn Digital Ventures,Berlin / Frankfurt,"Travel, Mobility & Logistics Tech",research_lead,https://deutschebahnventures.de/,generic
+432,DHL IT Services Germany,Bonn / multiple,"Travel, Mobility & Logistics Tech",research_lead,,needs_review
+433,FreightHub,Berlin,"Travel, Mobility & Logistics Tech",research_lead,https://careers.forto.com/,generic
+434,Seven Senders,Berlin,"Travel, Mobility & Logistics Tech",research_lead,https://sevensenders.com/,needs_review
+435,InstaFreight,Berlin,"Travel, Mobility & Logistics Tech",research_lead,https://www.cargomotion.io/,needs_review
+436,Hive,Berlin,"Travel, Mobility & Logistics Tech",research_lead,https://hive.com/about,generic
+437,Warehousing1,Berlin,"Travel, Mobility & Logistics Tech",research_lead,https://warehousing1.com/jobs,generic
+438,Shipcloud,Hamburg,"Travel, Mobility & Logistics Tech",research_lead,https://shipcloud.com/careers,generic
+439,LetMeShip,Hamburg,"Travel, Mobility & Logistics Tech",research_lead,https://www.letmeship.com/career/,generic
+440,Cargonexx,Hamburg,"Travel, Mobility & Logistics Tech",research_lead,https://www.cargonexx.com/,needs_review
+441,Flexport Germany,Hamburg,"Travel, Mobility & Logistics Tech",research_lead,https://www.flexport.com/company/careers/,generic
+442,Maersk Germany,Hamburg,"Travel, Mobility & Logistics Tech",research_lead,https://www.maersk.com/careers,generic
+443,Hapag-Lloyd IT,Hamburg,"Travel, Mobility & Logistics Tech",research_lead,,needs_review
+444,Hellmann Worldwide Logistics,Osnabrück,"Travel, Mobility & Logistics Tech",research_lead,https://hellmannworldwidelogistics.com/careers,generic
+445,Rhenus Logistics,Holzwickede,"Travel, Mobility & Logistics Tech",research_lead,,needs_review
+446,FIEGE Logistik,Greven,"Travel, Mobility & Logistics Tech",research_lead,https://fiegelogistik.com/careers,generic
+447,Dachser IT,Kempten,"Travel, Mobility & Logistics Tech",research_lead,,needs_review
+448,Lufthansa Systems,Frankfurt / Hamburg,"Travel, Mobility & Logistics Tech",research_lead,,needs_review
+449,NavVis,Munich,"Travel, Mobility & Logistics Tech",research_lead,https://www.navvis.com/company/careers,generic
+450,Aleph Alpha,Heidelberg,"AI, Data, Climate & DeepTech",research_lead,https://aleph-alpha.com/en/#companycareers,generic
+451,Black Forest Labs,Freiburg,"AI, Data, Climate & DeepTech",research_lead,https://black-forest-labs.de/,needs_review
+452,Jina AI,Berlin,"AI, Data, Climate & DeepTech",research_lead,https://jinaai.com/,needs_review
+453,deepset,Berlin,"AI, Data, Climate & DeepTech",research_lead,https://www.deepset.ai/careers,generic
+454,Merantix,Berlin,"AI, Data, Climate & DeepTech",research_lead,https://www.merantix.com/,needs_review
+455,Aignostics,Berlin,"AI, Data, Climate & DeepTech",research_lead,https://www.aignostics.com/company/careers,generic
+456,Cambrium,Berlin,"AI, Data, Climate & DeepTech",research_lead,,needs_review
+457,Taktile,Berlin,"AI, Data, Climate & DeepTech",research_lead,https://taktile.com/careers,generic
+458,Konux,Munich,"AI, Data, Climate & DeepTech",research_lead,https://konux.com/careers-page/,generic
+459,Celonis AI,Munich,"AI, Data, Climate & DeepTech",research_lead,,needs_review
+460,H2O.ai Germany,Berlin / remote,"AI, Data, Climate & DeepTech",research_lead,https://h2oai.com/company/careers/,generic
+461,Dataiku Germany,Frankfurt / Munich,"AI, Data, Climate & DeepTech",research_lead,https://www.dataiku.com/company/careers,generic
+462,DataRobot Germany,Munich,"AI, Data, Climate & DeepTech",research_lead,https://www.datarobot.com/careers/,generic
+463,Weights & Biases Germany,Berlin / remote,"AI, Data, Climate & DeepTech",research_lead,,needs_review
+464,Hugging Face Germany,remote,"AI, Data, Climate & DeepTech",research_lead,https://apply.workable.com/huggingface,generic
+465,Paretos,Heidelberg,"AI, Data, Climate & DeepTech",research_lead,https://paretos.com/,needs_review
+466,Mostly AI Germany,Berlin,"AI, Data, Climate & DeepTech",research_lead,https://mostlyai.com/,needs_review
+467,Teraki,Berlin,"AI, Data, Climate & DeepTech",research_lead,,needs_review
+468,Brighter AI,Berlin,"AI, Data, Climate & DeepTech",research_lead,,needs_review
+469,Twenty Billion Neurons,Berlin,"AI, Data, Climate & DeepTech",research_lead,,needs_review
+470,Zalando Research,Berlin,"AI, Data, Climate & DeepTech",research_lead,,needs_review
+471,Bosch Center for AI,Renningen,"AI, Data, Climate & DeepTech",research_lead,,needs_review
+472,SAP AI,Walldorf / Berlin,"AI, Data, Climate & DeepTech",research_lead,,needs_review
+473,Siemens AI Lab,Munich,"AI, Data, Climate & DeepTech",research_lead,,needs_review
+474,E.ON Digital Technology,Essen / Berlin,"AI, Data, Climate & DeepTech",research_lead,https://eontechnology.com/careers,generic
+475,Tado,Munich,"AI, Data, Climate & DeepTech",research_lead,https://www.tado.com/en/jobs,generic
+476,Greenlyte Carbon Technologies,Essen,"AI, Data, Climate & DeepTech",research_lead,,needs_review
+477,Climeworks Germany,Cologne / remote,"AI, Data, Climate & DeepTech",research_lead,https://climeworks.com/careers,generic
+478,Plan A,Berlin,"AI, Data, Climate & DeepTech",research_lead,https://www.plana.de/karriere/,generic
+479,Sweep Germany,Berlin,"AI, Data, Climate & DeepTech",research_lead,https://sweep.com/careers,generic
+480,Klima.Metrix,Berlin,"AI, Data, Climate & DeepTech",research_lead,https://climcycle.com/karriere/,generic
+481,EcoG,Munich,"AI, Data, Climate & DeepTech",research_lead,,needs_review
+482,Electrochaea,Munich,"AI, Data, Climate & DeepTech",research_lead,https://www.electrochaea.com/,needs_review
+483,Voltfang,Aachen,"AI, Data, Climate & DeepTech",research_lead,https://voltfang.de/en/about-us/career/,generic
+484,Sonnen,Wildpoldsried / Berlin,"AI, Data, Climate & DeepTech",research_lead,https://www.sonnen.de/karriere,generic
+485,Next Kraftwerke,Cologne,"AI, Data, Climate & DeepTech",research_lead,https://www.next-kraftwerke.de/careers,generic
+486,Vattenfall Digital,Berlin / Hamburg,"AI, Data, Climate & DeepTech",research_lead,https://careers.vattenfall.com:443/global/?utm_source=corporate&utm_medium=referral,generic
+487,RWE Supply & Trading Tech,Essen,"AI, Data, Climate & DeepTech",research_lead,,needs_review
+488,Uniper IT,Düsseldorf,"AI, Data, Climate & DeepTech",research_lead,,needs_review
+489,EWE Digital,Oldenburg,"AI, Data, Climate & DeepTech",research_lead,https://www.ewe.com:443/en/careers,generic
+490,Octopus Energy Germany,Munich / Berlin,"AI, Data, Climate & DeepTech",research_lead,https://octopusenergy.com/careers,generic
+491,CureVac,Tübingen,"HealthTech, MedTech & Life Sciences",research_lead,https://www.curevac.com/curevac-is-now-part-of-the-biontech-group/,needs_review
+492,Fresenius Digital Technology,Bad Homburg,"HealthTech, MedTech & Life Sciences",research_lead,,needs_review
+493,Carl Zeiss Meditec,Jena,"HealthTech, MedTech & Life Sciences",research_lead,https://carl-zeiss-meditec.com/,needs_review
+494,Clue,Berlin,"HealthTech, MedTech & Life Sciences",research_lead,https://clue.com/,needs_review
+495,Maven Clinic Germany,Berlin / remote,"HealthTech, MedTech & Life Sciences",research_lead,https://www.mavenclinic.com/careers,generic
+496,Docplanner Germany,Berlin,"HealthTech, MedTech & Life Sciences",research_lead,https://www.docplanner.com/careers,generic
+497,Patient 21,Berlin,"HealthTech, MedTech & Life Sciences",research_lead,https://patient21.com/jobs,generic
+498,Avi Medical,Munich,"HealthTech, MedTech & Life Sciences",research_lead,https://www.avimedical.com/jobs/,generic
+499,TeleClinic,Munich,"HealthTech, MedTech & Life Sciences",research_lead,https://teleclinic.com/careers,generic
+500,Doctorly,Berlin,"HealthTech, MedTech & Life Sciences",research_lead,https://www.doctorly.de/,needs_review
+501,Zava Germany,Hamburg,"HealthTech, MedTech & Life Sciences",research_lead,https://zava.de/,needs_review
+502,Caspar Health,Berlin,"HealthTech, MedTech & Life Sciences",research_lead,https://www.caspar-health.de/karriere,generic
+503,Kenbi,Berlin,"HealthTech, MedTech & Life Sciences",research_lead,https://kenbi.de/careers,generic
+504,Medwing,Berlin,"HealthTech, MedTech & Life Sciences",research_lead,,needs_review
+505,AMBOSS,Berlin,"HealthTech, MedTech & Life Sciences",research_lead,https://careers.amboss.com,generic
+506,Nelly Solutions,Berlin,"HealthTech, MedTech & Life Sciences",research_lead,https://www.getnelly.de:443/jobs,generic
+507,Caresyntax,Berlin,"HealthTech, MedTech & Life Sciences",research_lead,,needs_review
+508,x-cardiac,Berlin,"HealthTech, MedTech & Life Sciences",research_lead,https://www.xcardiac.com/jobs,generic
+509,Varian Germany,multiple,"HealthTech, MedTech & Life Sciences",research_lead,https://cancercare.siemens-healthineers.com/about-us/careers,generic
+510,Philips Germany,Hamburg / Böblingen,"HealthTech, MedTech & Life Sciences",research_lead,https://www.careers.philips.com/na/en,generic
+511,GE HealthCare Germany,Munich / multiple,"HealthTech, MedTech & Life Sciences",research_lead,https://www.gehealthcare.com/en-us,needs_review
+512,Roche Germany,Mannheim / Penzberg,"HealthTech, MedTech & Life Sciences",research_lead,https://careers.roche.com/global/en,generic
+513,Abbott Germany,Wiesbaden,"HealthTech, MedTech & Life Sciences",research_lead,https://www.abbott.com/en-us/homepage,needs_review
+514,Johnson & Johnson MedTech,multiple,"HealthTech, MedTech & Life Sciences",research_lead,,needs_review
+515,Thermo Fisher Scientific Germany,multiple,"HealthTech, MedTech & Life Sciences",research_lead,,needs_review
+516,B. Braun,Melsungen,"HealthTech, MedTech & Life Sciences",research_lead,https://www.bbraun.com/en.html,needs_review
+517,Evotec,Hamburg,"HealthTech, MedTech & Life Sciences",research_lead,https://careers.evotec.com/en,generic
+518,Synlab,Munich,"HealthTech, MedTech & Life Sciences",research_lead,https://www.synlab.com/career/join-our-team,generic
+519,Limbach Gruppe,Heidelberg,"HealthTech, MedTech & Life Sciences",research_lead,https://www.limbachgruppe.com/jobs/,generic
+520,ZF Friedrichshafen,Friedrichshafen,"Automotive, Industrial, Robotics & Semiconductors",research_lead,,needs_review
+521,Valeo Germany,multiple,"Automotive, Industrial, Robotics & Semiconductors",research_lead,https://www.valeo.com/en/careers/,generic
+522,Forvia Hella,Lippstadt,"Automotive, Industrial, Robotics & Semiconductors",research_lead,https://www.hella.com/en/,needs_review
+523,Magna Germany,multiple,"Automotive, Industrial, Robotics & Semiconductors",research_lead,https://www.magna.com/careers,generic
+524,Tesla Gigafactory,Grünheide,"Automotive, Industrial, Robotics & Semiconductors",research_lead,https://teslagigafactory.com/careers,generic
+525,Lucid Motors Germany,Munich,"Automotive, Industrial, Robotics & Semiconductors",research_lead,https://lucidmotors.com/careers,generic
+526,BMW Car IT,Munich / Ulm,"Automotive, Industrial, Robotics & Semiconductors",research_lead,,needs_review
+527,Volkswagen Infotainment,Bochum,"Automotive, Industrial, Robotics & Semiconductors",research_lead,https://www.volkswagen-infotainment.com/de.html,needs_review
+528,IAV,Berlin / Gifhorn,"Automotive, Industrial, Robotics & Semiconductors",research_lead,https://www.iav.com/career/,generic
+529,EDAG,Fulda / multiple,"Automotive, Industrial, Robotics & Semiconductors",research_lead,https://www.edag.com/de/karriere,generic
+530,Bertrandt,Ehningen / multiple,"Automotive, Industrial, Robotics & Semiconductors",research_lead,https://www.bertrandt.com/karriere,generic
